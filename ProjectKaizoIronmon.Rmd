@@ -1,0 +1,254 @@
+---
+title: "KaizoIronmon"
+author: "Celine Mangahas"
+date: "2024-04-16"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+Pokemon has been one of the most popular games for the last 28 years. However, some players have agreed the recent games have dropped in difficulty; they needed a new challenge, a better twist on their favorite game series. Iateyourpie created a Pokemon Randomizer that randomizes Pokemon spawns, stats, items, even abilities to push players to the limit: The IronMON Challenge. One of the most famous versions of the IronMON Challenge is Kaizo IronMON—with 38 rules restricting the player on what items, Pokemon, moves and abilities one can use against harder, smarter AI. It's no wonder the challenge has many losses and very, very few wins.
+
+There are various analyses from the moderators and streamers that have taken on the challenge, however, using the R programming language could create a new perspective for all to see. Graphs such as the violin and dodge plots could be useful to see which are the most popular/used types for the challenge, and possibly using the package "tidyverse" for data visualization. I would also like to evaluate the relationship between abilities and Pokemon types to see how valuable typing and abilities are. I could also look at how certain stats could play into a gamer winning their challenge. I would have to webscrape the data borrowed from the IronMON community with permission.  
+```{r ironmon1, echo=FALSE}
+ironmon <- read.csv("FRLG_kaizo_ironmon.csv")
+View(ironmon)
+```
+
+## Graph/Visual Analysis of Kaizo Ironmon
+
+Win status by Pokemon:
+
+```{r ironmon2, echo=FALSE}
+library(ggplot2)
+library(plyr)
+library(dplyr)
+
+
+# Bar plot of Win status by Pokemon
+ggplot(ironmon, aes(x = Pokemon, fill = Win)) +
+  geom_bar() +
+  labs(title = "Win Status by Pokemon", x = "Pokemon", y = "Count") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+Facet grid of Type1 vs Special Attack color-organized by Win Status
+```{r ironmon3, echo=FALSE}
+# Facet grid for Type1 vs Special Attack with Win Status
+ggplot(ironmon, aes(x = Type1, y = SpecialAttack, fill = Win)) +
+  geom_boxplot() +
+  labs(title = "Facet Grid: Type1 vs Special Attack with Win Status",
+       x = "Type1",
+       y = "Special Attack",
+       fill = "Win") +
+  facet_wrap(~ Win) +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+Box plot of Win statuses:
+```{r ironmon5, echo=FALSE}
+# Box plot of BST by Win status
+ggplot(ironmon, aes(x = Win, y = BST, fill = Win)) +
+  geom_boxplot() +
+  labs(title = "BST by Win Status", x = "Win", y = "BST") +
+  theme_minimal()
+```
+Scatter plot of Special attack vs. Defense. There is a smoothed line on the graph to represent a possible slope to show the relationship between special attack and defense, however, due to the random number generation (RNG for short in gamer terminology), there is no general relationship detected:
+```{r ironmon6, echo=FALSE}
+# Scatter plot with smoothed line
+ggplot(ironmon, aes(x = SpecialAttack, y = Defense)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE, color = "blue") +
+  labs(title = "Scatter Plot: Special Attack vs Defense",
+       x = "Special Attack",
+       y = "Defense") +
+  theme_minimal()
+```
+Filtered Data of Pokemon with BST under 500
+```{r ironmon7, echo=FALSE}
+# Filter data for Pokemon with BST under 500
+pokemon_bst_under_500 <- ironmon %>% 
+  filter(BST < 500)
+
+# Bar plot of Wins for Pokemon with BST under 500
+ggplot(pokemon_bst_under_500, aes(x = factor(Win), fill = factor(Win))) +
+  geom_bar() +
+  labs(title = "Wins for Pokemon with BST under 500",
+       x = "Win",
+       y = "Count") +
+  scale_fill_manual(values = c("red", "blue")) +  # Colors for wins
+  theme_minimal()
+```
+Filtered Data of Pokemon with BST under 450
+```{r ironmon8, echo=FALSE}
+# Assuming ironmon is your data frame
+pokemon_bst_under_450 <- ironmon %>% 
+  filter(BST < 450)
+
+# View the filtered data
+head(pokemon_bst_under_450)
+
+# Bar plot of BST under 450 vs. Wins
+ggplot(pokemon_bst_under_450, aes(x = Pokemon, fill = Win)) +
+  geom_bar() +
+  labs(title = "Wins vs. BST under 450 for All Types",
+       x = "Pokemon",
+       y = "Count") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+Bar chart of which types win the most. Water and normal types seem to win the most from my analyses.
+```{r ironmon9, echo=FALSE}
+# Bar plot of Wins by Type1
+ggplot(ironmon, aes(x = Type1, fill = Win)) +
+  geom_bar() +
+  labs(title = "Wins by Type1",
+       x = "Type1",
+       y = "Count") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+# Stacked bar plot of Wins by Type1 and Type2
+ggplot(ironmon, aes(x = Type1, fill = Type2)) +
+  geom_bar(position = "stack") +
+  labs(title = "Wins by Type1 and Type2",
+       x = "Type1",
+       y = "Count") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  guides(fill = guide_legend(title = "Type2"))
+```
+Stacked Bar chart of which types win the most. Water and normal types seem to win the most from my analyses.
+```{r ironmon10, echo=FALSE}
+# Stacked bar plot of Wins by Type1 and Type2
+ggplot(ironmon, aes(x = Type1, fill = Type2)) +
+  geom_bar(position = "stack") +
+  labs(title = "Wins by Type1 and Type2",
+       x = "Type1",
+       y = "Count") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  guides(fill = guide_legend(title = "Type2"))
+library(dplyr)
+
+# Calculate total wins and losses by Type1 and Type2
+wins_losses <- ironmon %>%
+  group_by(Type1, Type2) %>%
+  summarize(TotalWins = sum(Win == "TRUE"),
+            TotalLosses = sum(Win == "FALSE"))
+
+# View the wins_losses table
+print(wins_losses)
+```
+## Numerical Analysis of Ironmon
+To determine whether or not the data fits a normal distribution (data is symmetric to the mean, showing data near the mean to be more frequent closer than farther), I used the Shapiro-Wilk test to find the p-value of the following values: IV, HP, Speed, Special Defense, Special Attack, Attack, Base Stat, Level, and Defense.
+
+Let H0, our null hypothesis, be each value follow a Normal distribution
+Let Ha, the alternative hypothesis, - each of the values does not follow a Normal distribution
+```{r ironmon11, echo=FALSE}
+# Shapiro-Wilk test for IV
+shapiro_test_IV <- shapiro.test(ironmon$IV)
+shapiro_test_IV
+
+# Shapiro-Wilk test for Speed
+shapiro_test_speed <- shapiro.test(ironmon$Speed)
+shapiro_test_speed
+
+# Shapiro-Wilk test for Attack
+shapiro_test_atk <- shapiro.test(ironmon$Attack)
+shapiro_test_atk
+
+# Shapiro-Wilk test for Defense
+shapiro_test_def <- shapiro.test(ironmon$Defense)
+shapiro_test_def
+
+# Shapiro-Wilk test for HP
+shapiro_test_HP <- shapiro.test(ironmon$HP)
+shapiro_test_HP
+
+# Shapiro-Wilk test for Special Defense
+shapiro_test_spD <- shapiro.test(ironmon$SpecialDefense)
+shapiro_test_spD
+
+# Shapiro-Wilk test for Special Attack
+shapiro_test_spA <- shapiro.test(ironmon$SpecialAttack)
+shapiro_test_spA
+
+# Shapiro-Wilk test for Special Attack
+shapiro_test_lvl <- shapiro.test(ironmon$PokemonLvl)
+shapiro_test_lvl
+
+# Shapiro-Wilk test for Base Stat
+shapiro_test_bst <- shapiro.test(ironmon$BST)
+shapiro_test_bst
+```
+Whenever the p-value is above 0.05, we reject H0 and accept the HA as our hypothesis. IV and Speed are rejected due to the randomness of the values from our sample, but the other values seem to follow a normal distribution.
+
+## Wins and Losses Analyses
+Here is a calulation of wins and losses by types.
+```{r ironmon12, echo=FALSE}
+# Calculate total wins and losses by Type1 and Type2
+wins_losses <- ironmon %>%
+  group_by(Type1, Type2) %>%
+  summarize(TotalWins = sum(Win == "TRUE"),
+            TotalLosses = sum(Win == "FALSE"))
+
+# View the wins_losses table
+print(wins_losses)
+
+# Type1 and Type2 with most wins
+most_wins <- wins_losses %>%
+  filter(TotalWins == max(TotalWins))
+
+# Type1 and Type2 with most losses
+most_losses <- wins_losses %>%
+  filter(TotalLosses == max(TotalLosses))
+
+# Print the results
+cat("Type1 and Type2 with the most wins:\n")
+print(most_wins)
+
+cat("\nType1 and Type2 with the most losses:\n")
+print(most_losses)
+```
+
+```{r ironmon13, echo=FALSE}
+
+# Calculate counts of wins and losses
+win_counts <- sum(ironmon$Win == TRUE)
+loss_counts <- sum(ironmon$Win == FALSE)
+
+# Create a data frame for the pie chart
+pie_data <- data.frame(Win = c("Wins", "Losses"),
+                       Count = c(win_counts, loss_counts))
+
+# Create the pie chart
+ggplot(pie_data, aes(x = "", y = Count, fill = Win)) +
+  geom_bar(stat = "identity", width = 1) +
+  coord_polar("y", start = 0) +
+  labs(title = "Pie Chart of Win Status",
+       fill = "Win") +
+  theme_void() +
+  theme(legend.position = "right") +
+  geom_text(aes(label = paste0(round(Count/sum(Count) * 100), "%")),
+            position = position_stack(vjust = 0.5))
+
+# Filter data for Pokemon that won
+winning_pokemon <- ironmon %>%
+  filter(Win == TRUE)
+
+# Count occurrences of each Type1 for winners
+win_type1_counts <- count(winning_pokemon, Type1)
+
+# Calculate total wins by Type1
+total_wins_type1 <- ironmon %>%
+  filter(Win == TRUE) %>%
+  count(Type1, sort = TRUE)
+
+# View the total wins by Type1
+print(total_wins_type1)
+```

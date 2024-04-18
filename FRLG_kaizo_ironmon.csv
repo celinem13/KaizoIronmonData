@@ -1,0 +1,468 @@
+Rank,SubmissionDate,Runner,Pokemon,Type1,Type2,BST,Win,Game,Elite4Level,Ability,Nature,PokemonLvl,HP,Attack,Defense,SpecialAttack,SpecialDefense,Speed,Move1,Move2,Move3,Move4,IV
+374,3/7/2023,StellarVortex0,Lanturn,WATER,ELECTRIC,460,TRUE,FRLG,85,Cute Charm,N/A,85,219,212,222,214,88,165,Thunderbolt,Muddy Water,Flamethrower,Tail Glow,21.9
+369,5/29/2022,Skybilz,Milotic,WATER,N/A,540,TRUE,FRLG,85,Drizzle,Rash,85,314,159,113,251,198,168,Thunder,Icy Wind,Leaf Blade,Teeter Dance,12.8
+23,7/31/2022,halplm,Flygon,GROUND,DRAGON,520,TRUE,FRLG,86,Speed Boost,N/A,91,304,278,146,183,117,257,Ancient Power,Bonemerang,Return,Brick Break,18.2
+382,6/1/2022,Nocturne,Venusaur,GRASS,POISON,525,FALSE,FRLG,86,Stench,N/A,87,370,244,108,98,224,207,Sludge Bomb,Hidden Power,Secret Power,Muddy Water,20
+179,8/27/2023,shiru666,Cloyster,WATER,ICE,525,FALSE,FRLG,87,Water Absorb,Modest,87,171,138,180,434,150,174,Dragon Claw,Karate Chop,Toxic,Agility,15.7
+232,2/27/2024,StreamingFalcon,Gengar,GHOST,POISON,500,TRUE,FRLG,87,Shed Skin,Lonely,89,432,94,150,204,208,142,Ice Beam,Eruption,Tail Glow,Thunder Punch,20.8
+473,8/15/2022,JoeJoeBeans,Gengar,GHOST,POISON,500,FALSE,FRLG,87,Soundproof,Relaxed,87,304,254,103,132,271,126,Cross Chop,Sacred Fire,Return,Facade,18.1
+296,5/29/2022,JoeJoeBeans,Jolteon,ELECTRIC,N/A,525,FALSE,FRLG,87,Minus,Adamant,87,206,306,225,134,129,260,Tri Attack,Aeroblast,Steel Wing,Ice Beam,19.4
+255,2/14/2023,xwater,Kingdra,WATER,DRAGON,540,FALSE,FRLG,87,Cute Charm,N/A,87,345,84,92,219,255,266,Water Spout,Pursuit,Mist Ball,Needle Arm,17.5
+155,5/30/2022,paradiseFP,Kingdra,WATER,DRAGON,540,TRUE,FRLG,87,Shield Dust,Lonely,88,267,134,236,223,166,202,Hydro Cannon,Blast Burn,Extrasensory,Spark,12.6
+415,7/20/2022,ForgottenReaper,Lapras,WATER,ICE,535,TRUE,FRLG,87,Oblivious,N/A,89,419,61,262,295,134,108,Night Shade,Psybeam,Flamethrower,Octazooka,17.7
+477,4/16/2023,iateyourpie,Magmar,FIRE,N/A,495,FALSE,FRLG,87,Own Tempo,Careful,87,418,99,286,145,138,113,Extrasensory,Sacred Fire,Shock Wave,Low Kick,20.9
+506,7/12/2022,QwarZach,Milotic,WATER,N/A,540,FALSE,FRLG,87,Thick Fat,Sassy,87,253,143,178,294,140,259,Eruption,Double Team,Signal Beam,Low Kick,20.8
+371,7/6/2023,coleholling,Politoed,WATER,N/A,500,TRUE,FRLG,87,Liquid Ooze,Brave,89,360,294,125,56,179,215,Sludge Bomb,Ancient Power,Mud Shot,Swords Dance,19.1
+311,8/27/2023,shiru666,Skarmory,STEEL,FLYING,465,FALSE,FRLG,87,Overgrow,Naive,87,291,54,153,179,201,257,Bite,Blaze Kick,Hydro Pump,Frenzy Plant,19.8
+197,3/7/2023,Silver,Snorlax,NORMAL,N/A,540,TRUE,FRLG,87,Natural Cure,N/A,90,334,303,239,76,199,171,Dizzy Punch,Drill Peck,Earthquake,Bulk Up,20.2
+422,2/16/2023,ShraveShrave,Tauros,NORMAL,N/A,490,TRUE,FRLG,87,Effect Spore,Brave,87,248,290,234,136,226,59,Extreme Speed,Dragon Dance,Tri Attack,Magnitude,17.5
+367,5/30/2022,Marten Broadcloak,Typhlosion,FIRE,N/A,534,TRUE,FRLG,87,Levitate,N/A,89,302,223,184,196,154,196,Shadow Ball,Bone Rush,Ice Punch,Rolling Kick,14.1
+504,9/6/2023,Ice_ArchAngel,Ursaring,NORMAL,N/A,500,FALSE,FRLG,87,Sturdy,Modest,88,168,73,380,141,265,150,Thunderbolt,Psychic,Tail Glow,Blast Burn,12.5
+400,5/23/2023,Shrew_,Ursaring,NORMAL,N/A,500,FALSE,FRLG,87,Sticky Hold,Impish,87,289,236,181,74,162,220,Bite,Double Kick,Sludge,Hyper Voice,11.6
+427,9/26/2023,Nezumi,Ampharos,ELECTRIC,N/A,500,TRUE,FRLG,88,Illuminate,Impish,90,269,248,176,177,175,176,Swords Dance,Tri Attack,Steel Wing,Wing Attack,16.6
+256,8/11/2022,flutten,Arcanine,FIRE,N/A,555,TRUE,FRLG,88,Liquid Ooze,Modest,88,336,149,93,264,176,289,Thunderbolt,Icy Wind,Blaze Kick,Mist Ball,17.2
+269,8/23/2023,Lucellia,Blastoise,WATER,N/A,530,TRUE,FRLG,88,Hyper Cutter,Modest,90,305,93,153,216,236,262,Water Spout,Twister,Thunder,Flamethrower,13.2
+64,12/6/2023,Ice_ArchAngel,Blaziken,FIRE,FIGHTING,530,TRUE,FRLG,88,Rough Skin,Hasty,91,259,132,236,306,175,149,Blaze Kick,Thunderbolt,Extrasensory,Bubble Beam,13.2
+288,6/14/2022,Snifit57,Blaziken,FIRE,FIGHTING,530,FALSE,FRLG,88,Sticky Hold,Calm,89,431,44,247,213,201,95,Blaze Kick,Water Pulse,Toxic,Thunderbolt,11.8
+446,4/19/2023,ChadEditor,Blissey,NORMAL,N/A,540,FALSE,FRLG,88,Damp,N/A,89,304,246,163,229,192,158,Tri Attack,Karate Chop,Calm Mind,Overheat,17.9
+412,5/31/2022,Travisty,Blissey,NORMAL,N/A,540,FALSE,FRLG,88,Sturdy,Gentle,89,308,277,149,287,84,185,Return,Shadow Ball,Earthquake,Psychic,18.9
+370,7/19/2023,Pride,Charizard,FIRE,FLYING,534,TRUE,FRLG,88,Plus,Hasty,91,304,181,186,141,219,226,Earthquake,Drill Peck,Spark,Howl,10.4
+43,5/23/2023,Shrew_,Charizard,FIRE,FLYING,534,FALSE,FRLG,88,Speed Boost,Rash,89,196,248,255,299,115,170,Tail Glow,Nature Power,Return,Flamethrower,16.1
+9,2/7/2024,PowaSlap,Dragonite,DRAGON,FLYING,600,FALSE,FRLG,88,Limber,N/A,91,189,145,273,345,223,278,Ice Punch,Leaf Blade,Eruption,Bite,20.7
+73,12/9/2023,HollyTeaLeaf,Espeon,PSYCHIC,N/A,525,TRUE,FRLG,88,Compound Eyes,Lax,90,309,64,267,248,158,218,Hydro Cannon,Luster Purge,Ice Beam,Feint Attack,14.8
+488,8/12/2022,joejoebeans,Gligar,GROUND,FLYING,430,FALSE,FRLG,88,Static,Careful,88,244,155,179,143,209,156,Drill Peck,Sharpen,Earthquake,Shadow Ball,18.1
+1,2/25/2023,CaliYuga,Houndoom,DARK,FIRE,500,TRUE,FRLG,88,Speed Boost,N/A,88,197,202,196,249,191,150,Tail Glow,Heat Wave,Ice Beam,Thunderbolt,14.5
+153,6/9/2023,The4thGenGamer,Hypno,PSYCHIC,N/A,483,FALSE,FRLG,88,Speed Boost,Sassy,88,323,54,183,251,322,82,Spark,Muddy Water,Icy Wind,Confuse Ray,22.5
+282,3/24/2023,dynamungo,Jolteon,ELECTRIC,N/A,525,TRUE,FRLG,88,Serene Grace,Careful,91,316,331,212,126,240,122,Dragon Dance,Earthquake,Rock Slide,Hyper Voice,24.7
+20,8/11/2022,Octopimp,Kingdra,WATER,DRAGON,540,TRUE,FRLG,88,Soundproof,N/A,90,288,50,183,313,196,244,Crunch,Thunder Punch,Water Pulse,Ice Beam,15.4
+241,7/6/2023,TwistOfRage,Magneton,ELECTRIC,STEEL,465,FALSE,FRLG,88,Levitate,Modest,88,179,84,306,196,234,171,Eruption,Bubble Beam,Crunch,Icy Wind,20.9
+236,6/16/2023,sentor_g,Pinsir,BUG,N/A,500,FALSE,FRLG,88,Damp,Impish,89,309,77,267,241,147,196,Thunderbolt,Aurora Beam,Water Sport,Rock Tomb,21
+484,12/16/2022,rubes000,Porygon2,NORMAL,N/A,515,FALSE,FRLG,88,Damp,N/A,89,322,205,216,132,189,162,Extreme Speed,Spike Cannon,Shadow Ball,Rock Slide,14.7
+284,1/13/2024,YogiEisbar,Scizor,BUG,STEEL,500,TRUE,FRLG,88,Flash Fire,Careful,88,239,130,157,234,216,201,Signal Beam,Swords Dance,Hydro Pump,Leaf Blade,14.2
+432,3/22/2023,SteVanLe,Scizor,BUG,STEEL,500,FALSE,FRLG,88,Rain Dish,N/A,89,393,255,132,72,179,170,Bubble Beam,Spike Cannon,Aeroblast,Bulk Up,14.9
+357,10/24/2023,Jedi Master JAN,Shuckle,BUG,ROCK,505,FALSE,FRLG,88,Volt Absorb,N/A,88,275,93,237,277,231,92,Hidden Power,Magical Leaf,Sacred Fire,Earthquake,16.3
+274,5/23/2023,Shrew_,Skarmory,STEEL,FLYING,465,FALSE,FRLG,88,Flash Fire,Quiet,93,249,257,163,81,267,177,Poison Fang,Swords Dance,Crabhammer,Horn Attack,17.8
+395,5/23/2023,Shrew_,Snorlax,NORMAL,N/A,540,FALSE,FRLG,88,Drought,Lonely,89,358,261,134,61,230,242,Body Slam,Horn Attack,Heat Wave,Bite,15.7
+289,3/1/2023,Shiru666,Snorlax,NORMAL,N/A,540,FALSE,FRLG,88,Speed Boost,Rash,88,252,76,247,270,276,137,Thunderbolt,Substitute,Hydro Pump,Solar Beam,15.9
+456,7/27/2022,BitErrorMusic,Snorlax,NORMAL,N/A,540,FALSE,FRLG,88,Overgrow,N/A,88,230,260,100,204,256,188,Wing Attack,Swords Dance,Tri Attack,Magnitude,12
+122,8/10/2022,CaliYuga,Steelix,STEEL,ROCK,510,TRUE,FRLG,88,Swift Swim,Lonely,88,244,292,254,66,151,218,Aeroblast,Low Kick,Covet,Dragon Dance,18.3
+87,10/3/2023,Improv,Swalot,POISON,N/A,467,TRUE,FRLG,88,Compound Eyes,N/A,91,189,99,184,251,218,214,Thunderbolt,Tail Glow,Pursuit,Fire Punch,12.9
+285,5/30/2022,RiztheWizard,Swampert,WATER,GROUND,535,TRUE,FRLG,88,Rough Skin,N/A,90,310,327,163,88,202,171,Aeroblast,Teeter Dance,Secret Power,Meditate,12.7
+75,6/1/2022,SatelliteSam,Tentacruel,WATER,POISON,515,FALSE,FRLG,88,Water Veil,Brave,90,292,114,135,255,245,209,Flamethrower,Earthquake,Crunch,Shock Wave,18.3
+18,8/12/2022,CalebHart42,Typhlosion,FIRE,N/A,534,TRUE,FRLG,88,Soundproof,Modest,90,234,63,217,315,179,237,Thunder Punch,Ice Beam,Calm Mind,Heat Wave,7.4
+175,5/29/2022,Slackaholicus,Typhlosion,FIRE,N/A,534,TRUE,FRLG,88,Guts,Rash,88,376,92,85,282,156,231,Flamethrower,Thunderbolt,Pursuit,Barrier,9.9
+310,10/27/2023,jdruse,Vaporeon,WATER,N/A,525,TRUE,FRLG,88,Drizzle,N/A,90,377,109,184,316,113,191,Thunderbolt,Extrasensory,Blaze Kick,Growth,19.6
+25,3/20/2023,CaliTwitchPlays,Vaporeon,WATER,N/A,525,TRUE,FRLG,88,Flame Body,N/A,91,222,117,116,389,255,181,Spark,Bite,Ice Beam,Water Spout,16.1
+4,8/15/2022,ShireaTV,Vaporeon,WATER,N/A,525,TRUE,FRLG,88,Volt Absorb,N/A,88,217,71,209,335,185,247,Thunderbolt,Flamethrower,Ice Beam,Water Spout,19.9
+503,12/20/2023,heyheyitskev,Venusaur,GRASS,POISON,525,TRUE,FRLG,88,Shell Armor,Careful,90,376,77,230,137,257,242,Ice Punch,Thunder,Bubble,Tail Glow,22.7
+212,9/28/2023,Ice_ArchAngel,Walrein,ICE,WATER,530,FALSE,FRLG,88,Torrent,N/A,89,374,75,111,247,222,212,Aurora Beam,Water Pulse,Crunch,Thunder Punch,13
+449,4/19/2023,ChadEditor,Alakazam,PSYCHIC,N/A,490,FALSE,FRLG,89,Static,Sassy,89,294,175,124,200,151,217,Extrasensory,Hyper Voice,Rock Throw,Blast Burn,13
+36,5/29/2022,Flipfox,Ampharos,ELECTRIC,N/A,500,FALSE,FRLG,89,Drizzle,N/A,89,252,111,210,277,168,216,Thunder,Water Pulse,Ice Punch,Crunch,20.1
+55,10/12/2023,Ice_ArchAngel,Blaziken,FIRE,FIGHTING,530,FALSE,FRLG,89,Rain Dish,Modest,91,206,298,149,310,156,217,Aurora Beam,Flame Wheel,Thunderbolt,Signal Beam,23.6
+89,8/19/2022,Nix,Blaziken,FIRE,FIGHTING,530,TRUE,FRLG,89,Stench,Quiet,91,242,87,191,281,204,264,Flamethrower,Ice Punch,Fire Punch,Teeter Dance,13.7
+123,11/20/2023,EconSean,Blissey,NORMAL,N/A,540,FALSE,FRLG,89,Sturdy,Naive,90,242,129,199,260,167,254,Calm Mind,Outrage,Water Gun,Thunderbolt,9.3
+277,4/15/2023,Lucellia,Blissey,NORMAL,N/A,540,TRUE,FRLG,89,Oblivious,Modest,89,192,123,249,372,209,162,Flame Wheel,Powder Snow,Crunch,Confusion,17.2
+113,4/9/2023,iateyourpie,Blissey,NORMAL,N/A,540,TRUE,FRLG,89,Sticky Hold,N/A,91,196,338,318,45,135,266,Earthquake,Horn Attack,Brick Break,Flamethrower,16.7
+245,2/12/2023,Keizaron,Blissey,NORMAL,N/A,540,FALSE,FRLG,89,Volt Absorb,Careful,89,336,253,145,70,247,231,Tri Attack,Earthquake,Sludge,Jump Kick,14.3
+492,7/30/2022,Scarbo,Blissey,NORMAL,N/A,540,FALSE,FRLG,89,Blaze,Bold,94,409,137,211,164,217,184,Thunderbolt,Crunch,Needle Arm,Fire Punch,11.8
+201,3/31/2023,JoeJoeBeans,Charizard,FIRE,FLYING,534,TRUE,FRLG,89,Own Tempo,Mild,89,388,240,156,85,213,214,Swords Dance,Earthquake,Shadow Punch,Karate Chop,21.5
+10,9/1/2022,Arex,Charizard,FIRE,FLYING,534,TRUE,FRLG,89,Speed Boost,N/A,89,299,267,178,251,177,121,Extrasensory,Fire Blast,Rock Slide,Curse,19.7
+224,5/23/2023,Shrew_,Crobat,POISON,FLYING,535,FALSE,FRLG,89,Poison Point,Modest,90,228,69,229,246,256,239,Thunderbolt,Crunch,Blast Burn,Thunder Punch,11.4
+54,6/4/2022,brungl,Crobat,POISON,FLYING,535,TRUE,FRLG,89,Rock Head,Naive,91,298,274,166,73,238,245,Aeroblast,Magnitude,Shadow Punch,Metal Claw,16.1
+15,5/30/2022,eikra3,Crobat,POISON,FLYING,535,TRUE,FRLG,89,Drought,N/A,91,251,81,240,257,191,260,Flamethrower,Crunch,Thunder Punch,Dragon Claw,13.4
+254,5/20/2023,Shrew_,Espeon,PSYCHIC,N/A,525,TRUE,FRLG,89,Sturdy,N/A,90,220,70,284,283,168,233,Psychic,Blaze Kick,Fire Punch,Calm Mind,14.8
+108,5/30/2022,Boo Boo Ninja,Espeon,PSYCHIC,N/A,525,TRUE,FRLG,89,Water Absorb,N/A,91,355,99,258,318,187,68,Fire Punch,Water Spout,Thunder Punch,Mist Ball,16.8
+364,5/29/2022,SaltyDolphin,Espeon,PSYCHIC,N/A,525,FALSE,FRLG,89,Clear Body,Adamant,89,301,173,93,195,208,272,Brick Break,Extrasensory,Sleep Powder,Shadow Punch,15.4
+442,8/27/2023,shiru666,Fearow,NORMAL,FLYING,442,FALSE,FRLG,89,Water Absorb,Lax,89,217,249,352,65,140,92,Secret Power,Aeroblast,Dragon Dance,Odor Sleuth,15
+102,11/25/2022,Cthulhu,Feraligatr,WATER,N/A,530,TRUE,FRLG,89,Oblivious,N/A,91,217,403,149,50,251,233,Bonemerang,Slash,Metal Claw,Aeroblast,19.3
+205,6/6/2022,JoeJoeBeans,Feraligatr,WATER,N/A,530,FALSE,FRLG,89,Intimidate,Jolly,90,259,313,214,136,254,134,Drill Peck,Earthquake,Rock Throw,Sludge Bomb,21.6
+146,7/19/2023,StreamingFalcon,Flareon,FIRE,N/A,525,FALSE,FRLG,89,Shield Dust,N/A,89,362,102,178,286,100,199,Dragon Breath,Eruption,Sheer Cold,Feint Attack,12.2
+58,8/31/2022,rubes000,Flareon,FIRE,N/A,525,TRUE,FRLG,89,Shed Skin,N/A,91,248,65,206,277,257,245,Flamethrower,Muddy Water,Dragon Claw,Luster Purge,18.7
+340,6/3/2022,numotthenummy,Flygon,GROUND,DRAGON,520,FALSE,FRLG,89,Plus,N/A,89,374,287,126,163,112,223,Magnitude,Stomp,Flame Wheel,Icy Wind,22.3
+474,3/22/2023,SteVanLe,Gyarados,WATER,FLYING,540,FALSE,FRLG,89,Swarm,Rash,91,305,107,259,167,207,217,Thunderbolt,Crabhammer,Heat Wave,Calm Mind,10.7
+86,6/6/2022,EconSean,Jolteon,ELECTRIC,N/A,525,FALSE,FRLG,89,Pure Power,N/A,89,267,153,265,291,159,107,Sheer Cold,Water Spout,Magical Leaf,Bite,14.5
+84,2/1/2024,Nezumi,Kabutops,ROCK,WATER,495,FALSE,FRLG,89,Keen Eye,Naughty,90,228,356,162,83,105,290,Rock Slide,Magnitude,Aeroblast,Bulk Up,14.7
+440,7/14/2023,Shiru666,Kangaskhan,NORMAL,N/A,490,FALSE,FRLG,89,Flash Fire,N/A,89,224,199,199,209,150,215,Earthquake,Ancient Power,Smelling Salt,Needle Arm,17
+280,3/22/2023,SteVanLe,Kingdra,WATER,DRAGON,540,FALSE,FRLG,89,Serene Grace,Lax,90,368,159,134,218,226,213,Lick,Sludge Bomb,Aurora Beam,Extrasensory,21.5
+306,8/14/2022,WoodenBarrel,Kingdra,WATER,DRAGON,540,TRUE,FRLG,89,Rough Skin,N/A,91,222,71,99,435,162,347,Dragon Breath,Ice Punch,Sleep Powder,Growth,20.2
+381,11/1/2023,Shiru666,Lapras,WATER,ICE,535,TRUE,FRLG,89,Thick Fat,Adamant,91,338,141,217,255,119,226,Ice Punch,Extrasensory,Leaf Blade,Calm Mind,18
+451,2/22/2024,Nezumi,Machamp,FIGHTING,N/A,505,TRUE,FRLG,89,Liquid Ooze,N/A,91,424,370,110,76,105,139,Low Kick,Slash,Bonemerang,Wing Attack,13.1
+321,3/30/2023,grandpoobear,Manectric,ELECTRIC,N/A,475,TRUE,FRLG,89,Lightning Rod,Calm,89,327,79,176,287,101,194,Thunderbolt,Crunch,Sacred Fire,Shock Wave,16.1
+261,8/24/2023,Nezumi,Milotic,WATER,N/A,540,FALSE,FRLG,89,Marvel Scale,Jolly,89,351,304,203,83,203,141,Bonemerang,Sludge,Secret Power,Rock Slide,16.4
+317,6/28/2023,Shiru666,Milotic,WATER,N/A,540,FALSE,FRLG,89,Flame Body,Lax,89,297,211,203,193,166,216,Muddy Water,Water Pulse,Shadow Punch,Bonemerang,17
+372,6/3/2022,Lucellia,Milotic,WATER,N/A,540,FALSE,FRLG,89,Own Tempo,Bold,89,331,226,167,69,241,230,Bone Rush,Hyper Voice,Smelling Salt,Wing Attack,15.3
+182,5/30/2022,SBCoop,Milotic,WATER,N/A,540,TRUE,FRLG,89,Volt Absorb,Timid,91,377,175,104,298,187,187,Calm Mind,Water Pulse,Flame Wheel,Spark,19.4
+71,8/20/2023,TwistOfRage,Omastar,ROCK,WATER,495,FALSE,FRLG,89,Sand Veil,Adamant,89,290,71,216,235,174,184,Bubble Beam,Flamethrower,Extrasensory,Aurora Beam,14.5
+505,2/16/2023,eiphzor,Pinsir,BUG,N/A,500,FALSE,FRLG,89,Flash Fire,Brave,89,361,100,127,276,181,186,Rock Blast,Sheer Cold,Frenzy Plant,Icy Wind,21.5
+493,1/10/2023,Weird0,Porygon2,NORMAL,N/A,515,FALSE,FRLG,89,Intimidate,Hasty,90,208,252,131,248,91,308,Stomp,Hyper Fang,Iron Tail,Blaze Kick,12.5
+494,11/20/2023,shiru666,Sceptile,GRASS,N/A,530,TRUE,FRLG,89,Shed Skin,Calm,91,270,93,246,249,229,252,Ice Beam,Drill Peck,Brick Break,Signal Beam,21.8
+439,1/10/2023,Weird0,Sceptile,GRASS,N/A,530,TRUE,FRLG,89,Thick Fat,Lax,91,375,61,105,372,67,322,Fire Blast,Ice Beam,Needle Arm,Dragon Breath,18.2
+376,8/10/2022,eL_ZxRO,Scizor,BUG,STEEL,500,TRUE,FRLG,89,Flash Fire,N/A,89,322,215,156,201,144,177,Twineedle,Magnitude,Iron Tail,Fire Punch,17.1
+479,3/8/2023,LoL_Renzo,Scyther,BUG,STEEL,500,TRUE,FRLG,89,Liquid Ooze,N/A,91,314,92,143,304,83,286,Fire Blast,Hidden Power,Thunderbolt,Silver Wind,14.1
+458,8/30/2023,ExarionU,Snorlax,NORMAL,N/A,540,TRUE,FRLG,89,Shed Skin,N/A,91,342,360,205,106,113,208,Secret Power,Swords Dance,Rock Tomb,Dig,19.9
+500,3/22/2023,SteVanLe,Snorlax,NORMAL,N/A,540,FALSE,FRLG,89,Intimidate,Sassy,90,376,147,167,185,293,148,Ancient Power,Return,Aurora Beam,Thunder,17.9
+465,10/13/2023,StreamingFalcon,Swalot,POISON,N/A,467,TRUE,FRLG,89,Run Away,Adamant,91,243,292,132,60,217,257,Hyper Voice,Crunch,Megahorn,Swords Dance,17.2
+198,2/16/2024,Ice_ArchAngel,Tentacruel,WATER,POISON,515,FALSE,FRLG,89,Lightning Rod,Naughty,90,304,128,220,224,218,155,Water Spout,Thunder Punch,Shadow Punch,Psycho Boost,18.1
+130,10/31/2023,shiru666,Tentacruel,WATER,POISON,515,FALSE,FRLG,89,Rain Dish,Rash,89,244,189,161,324,117,233,Ice Punch,Karate Chop,Feint Attack,Dragon Dance,18.6
+11,5/29/2022,msten19,Tentacruel,WATER,POISON,515,TRUE,FRLG,89,Volt Absorb,Modest,89,183,101,231,294,202,234,Ice Beam,Blaze Kick,Shock Wave,Needle Arm,15.3
+404,11/1/2023,Deceit,Typhlosion,FIRE,N/A,534,TRUE,FRLG,89,Trace,Adamant,91,278,280,257,88,280,151,Dizzy Punch,Megahorn,Bonemerang,Swords Dance,19.2
+345,8/3/2022,Arex,Umbreon,DARK,N/A,525,FALSE,FRLG,89,Battle Armor,Modest,89,447,90,163,322,137,124,Feint Attack,Confusion,Bubble Beam,Focus Energy,17.7
+386,6/5/2022,TheGons,Umbreon,DARK,N/A,525,FALSE,FRLG,89,Magma Armor,N/A,89,288,211,167,73,278,234,Earthquake,Horn Attack,Shadow Ball,Rock Slide,15.8
+3,5/30/2022,IsThisAFrog,Ursaring,NORMAL,N/A,500,TRUE,FRLG,89,Speed Boost,Gentle,87,166,89,110,448,172,229,Ice Beam,Thunderbolt,Fire Punch,Water Pulse,20.7
+210,6/2/2022,SaltyDolphin,Wailord,WATER,N/A,500,TRUE,FRLG,89,Drizzle,N/A,91,237,117,161,266,273,154,Water Spout,Psychic,Calm Mind,Bite,12
+5,3/10/2024,Nezumi,Walrein,ICE,WATER,530,TRUE,FRLG,89,Speed Boost,Adamant,91,226,105,223,326,239,187,Aurora Beam,Thunder Punch,Needle Arm,Lovely Kiss,22.4
+42,3/15/2024,Nezumi,Weezing,POISON,N/A,490,TRUE,FRLG,89,Clear Body,Lax,91,191,267,191,151,159,243,Sludge Bomb,Brick Break,Aerial Ace,Dragon Dance,13.9
+389,8/1/2022,Browny_Live,Weezing,POISON,N/A,490,FALSE,FRLG,89,Own Tempo,Careful,89,344,118,90,247,233,166,Thunderbolt,Tail Glow,Icy Wind,Lick,18.3
+392,7/13/2022,Abobo,Zangoose,NORMAL,N/A,458,FALSE,FRLG,89,Water Absorb,Jolly,89,215,241,226,71,201,163,Return,Night Shade,Vise Grip,Brick Break,12.1
+156,12/25/2022,markdash,Aerodactyl,ROCK,FLYING,515,TRUE,FRLG,90,Natural Cure,N/A,92,290,369,184,69,120,234,Aeroblast,Smelling Salt,Arm Thrust,Swords Dance,14.7
+243,5/31/2022,Xwater,Alakazam,PSYCHIC,N/A,490,FALSE,FRLG,90,Drought,Relaxed,90,219,124,245,284,227,124,Flamethrower,Eruption,Bite,Icy Wind,17.8
+105,10/2/2023,Esscout,Altaria,DRAGON,FLYING,490,TRUE,FRLG,90,Illuminate,Modest,92,233,148,215,264,205,186,Thunderbolt,Flame Wheel,Psychic,Aeroblast,18.3
+299,4/1/2023,Weird0,Ampharos,ELECTRIC,N/A,500,FALSE,FRLG,90,Own Tempo,N/A,90,326,128,140,220,175,194,Thunderbolt,Hydro Pump,Bite,Aeroblast,10.1
+63,3/18/2023,brdy,Arcanine,FIRE,N/A,555,FALSE,FRLG,90,Magma Armor,N/A,91,299,136,160,364,169,216,Flamethrower,Thunderbolt,High Jump Kick,Shock Wave,17.4
+69,7/14/2022,LeySauce,Arcanine,FIRE,N/A,555,TRUE,FRLG,90,Color Change,N/A,90,282,97,142,467,152,214,Flamethrower,Mirror Coat,Magical Leaf,Guillotine,20.8
+464,9/25/2023,ChadEditor,Blastoise,WATER,N/A,530,FALSE,FRLG,90,Shield Dust,Careful,90,357,234,125,190,107,255,Sludge Bomb,Dragon Dance,Crabhammer,Bite,16.7
+163,5/17/2023,Shiru666,Blastoise,WATER,N/A,530,TRUE,FRLG,90,Flash Fire,Brave,92,366,67,254,229,205,180,Ice Beam,Muddy Water,Crunch,Spark,18.5
+141,7/19/2023,Pride,Blaziken,FIRE,FIGHTING,530,TRUE,FRLG,90,Drought,Timid,93,170,54,204,475,179,213,Weather Ball,Bite,Solar Beam,Spark,12.6
+67,6/14/2023,GirlWithTheSquirtleTattoo,Blaziken,FIRE,FIGHTING,530,FALSE,FRLG,90,Sturdy,N/A,90,237,134,117,381,195,221,Thunderbolt,Seismic Toss,Crabhammer,Icy Wind,17.5
+266,8/11/2022,Shirdel,Blaziken,FIRE,FIGHTING,530,TRUE,FRLG,90,Drought,Bold,92,223,144,383,231,169,185,Confusion,Flamethrower,Aurora Beam,Cross Chop,18
+253,6/6/2022,EconSean,Blaziken,FIRE,FIGHTING,530,FALSE,FRLG,90,Compound Eyes,N/A,90,319,257,195,162,174,198,Flamethrower,Swords Dance,Jump Kick,Pin Missile,20.4
+352,9/2/2023,ExarionU,Blissey,NORMAL,N/A,540,TRUE,FRLG,90,Stench,Adamant,91,326,355,269,74,176,139,Extreme Speed,Dig,Revenge,Twineedle,17.2
+445,6/14/2023,GirlWithTheSquirtleTattoo,Blissey,NORMAL,N/A,540,TRUE,FRLG,90,Clear Body,Hasty,91,378,257,251,61,215,172,Secret Power,Drill Peck,Cross Chop,Seismic Toss,21.6
+435,11/15/2022,ItsReallyTimmyB,Blissey,NORMAL,N/A,540,TRUE,FRLG,90,Hustle,Impish,92,445,260,176,161,156,118,Return,Shadow Punch,Low Kick,Shock Wave,15.6
+40,10/19/2022,MrGlass023,Blissey,NORMAL,N/A,540,TRUE,FRLG,90,Speed Boost,Quiet,91,414,81,147,283,214,182,Dragon Breath,Eruption,Growth,Sleep Powder,17.2
+165,11/27/2022,Omrii,Charizard,FIRE,FLYING,534,FALSE,FRLG,90,Overgrow,N/A,90,235,272,254,62,179,271,Drill Peck,Fury Cutter,Covet,Sacred Fire,14.7
+152,11/7/2022,Twitch Poly,Claydol,GROUND,PSYCHIC,500,TRUE,FRLG,90,Soundproof,N/A,90,235,88,198,247,140,300,Leaf Blade,Extrasensory,Fire Punch,Outrage,14
+343,8/22/2023,Ice_ArchAngel,Cradily,ROCK,GRASS,495,FALSE,FRLG,90,Oblivious,Naughty,91,263,107,202,225,226,186,Flamethrower,Psybeam,Ice Beam,Petal Dance,15.9
+324,8/15/2022,bobowgames,Cradily,ROCK,GRASS,495,FALSE,FRLG,90,Thick Fat,Mild,90,351,160,139,287,127,198,Magical Leaf,Brick Break,Fire Punch,Dragon Claw,22.2
+313,3/13/2024,StreamingFalcon,Crobat,POISON,FLYING,535,FALSE,FRLG,90,Serene Grace,Naughty,91,313,303,312,74,190,129,Shadow Punch,Sludge,Bounce,Tri Attack,18.4
+66,11/1/2023,gété,Crobat,POISON,FLYING,535,FALSE,FRLG,90,Compound Eyes,Jolly,91,217,291,267,48,257,227,Sludge Bomb,Bounce,Cross Chop,Ancient Power,15.9
+287,8/24/2023,Nezumi,Crobat,POISON,FLYING,535,FALSE,FRLG,90,Immunity,Gentle,90,378,145,144,202,237,170,Thunderbolt,Dragon Claw,Aurora Beam,Sacred Fire,14
+186,8/2/2022,ExarionU,Crobat,POISON,FLYING,535,TRUE,FRLG,90,Battle Armor,Mild,92,291,228,210,62,205,312,Drill Peck,Extreme Speed,Dragon Dance,Revenge,18.4
+208,10/21/2022,Selen,Dodrio,NORMAL,FLYING,460,TRUE,FRLG,90,Shield Dust,N/A,91,238,86,161,259,263,168,Thunder Punch,Flame Wheel,Tail Glow,Dragon Claw,18.3
+128,10/25/2023,Shiru666,Dusclops,GHOST,N/A,455,TRUE,FRLG,90,Liquid Ooze,Impish,92,167,308,200,70,202,247,Shadow Ball,Bonemerang,Swords Dance,Extreme Speed,20.1
+463,4/19/2023,ChadEditor,Electabuzz,ELECTRIC,N/A,490,FALSE,FRLG,90,Shield Dust,Lonely,91,242,223,190,156,160,221,Drill Peck,Overheat,Needle Arm,Aeroblast,12.4
+380,3/2/2023,DevilHunterP12,Electabuzz,ELECTRIC,N/A,490,FALSE,FRLG,90,Drizzle,Hasty,90,396,62,251,203,157,163,Water Pulse,Ice Beam,Spark,Confusion,23.1
+204,6/12/2022,Eggzact,Espeon,PSYCHIC,N/A,525,TRUE,FRLG,90,Serene Grace,Jolly,90,346,78,141,271,162,224,Bite,Rolling Kick,Needle Arm,Tail Glow,10.9
+196,8/14/2023,Darthremar,Exeggutor,GRASS,PSYCHIC,520,FALSE,FRLG,90,Lightning Rod,Modest,92,343,74,108,342,275,154,Extrasensory,Bite,Fire Punch,Crabhammer,14.4
+502,12/1/2023,PowaSlap,Feraligatr,WATER,N/A,530,FALSE,FRLG,90,Intimidate,Modest,90,448,190,75,265,82,240,Thunderbolt,Sacred Fire,Recycle,Extrasensory,19.3
+33,11/4/2022,ilDelmo,Flareon,FIRE,N/A,525,TRUE,FRLG,90,Serene Grace,Rash,91,221,58,143,408,111,377,Dragon Claw,Spark,Eruption,Icicle Spear,19
+97,1/11/2024,Baeginning,Gardevoir,PSYCHIC,N/A,518,FALSE,FRLG,90,Blaze,Timid,92,173,106,168,356,185,315,Flamethrower,Razor Leaf,Psychic,Horn Attack,16.9
+279,5/23/2023,Shrew_,Gardevoir,PSYCHIC,N/A,518,FALSE,FRLG,90,Liquid Ooze,Hasty,90,260,114,161,215,248,234,Drill Peck,Sky Uppercut,Bubble Beam,Thunderbolt,12.3
+249,3/22/2023,F00Dstar,Gardevoir,PSYCHIC,N/A,518,TRUE,FRLG,90,Pressure,Bold,92,394,115,105,288,154,202,Flamethrower,Psycho Boost,Shock Wave,Water Spout,13.2
+160,1/31/2023,FOODstar,Gardevoir,PSYCHIC,N/A,518,TRUE,FRLG,90,Pressure,Lonely,90,386,113,102,282,150,198,Flamethrower,Psycho Boost,Shock Wave,Water Spout,12.8
+148,8/27/2022,markdash,Gengar,GHOST,POISON,500,TRUE,FRLG,90,Effect Spore,Timid,92,364,270,142,96,96,256,Sludge Bomb,Earthquake,Signal Beam,Gust,13.5
+490,10/18/2023,Poisson,Gorebyss,WATER,N/A,485,TRUE,FRLG,90,Drought,N/A,92,484,85,120,346,48,117,Eruption,Sacred Fire,Thunderbolt,Aurora Beam,14.4
+384,10/13/2023,Nansey,Gyarados,WATER,FLYING,540,TRUE,FRLG,90,Drizzle,Mild,92,186,219,221,243,202,244,Weather Ball,Swords Dance,Drill Peck,Dig,15.5
+106,7/25/2022,TheOtherToby,Gyarados,WATER,FLYING,540,TRUE,FRLG,90,Volt Absorb,Naughty,92,359,209,134,289,160,175,Bubble Beam,Ice Punch,Sludge Bomb,Wing Attack,16.6
+65,6/4/2022,sweetdee,Gyarados,WATER,FLYING,540,TRUE,FRLG,90,Volt Absorb,Modest,92,307,98,151,261,258,247,Crabhammer,Outrage,Leaf Blade,Shock Wave,14.4
+360,10/19/2023,FrogOnion_,Hariyama,FIGHTING,N/A,474,TRUE,FRLG,90,Run Away,Quiet,92,212,176,177,233,227,176,Flamethrower,Ice Punch,Leaf Blade,Sky Uppercut,16
+298,11/1/2023,Ice_ArchAngel,Houndoom,DARK,FIRE,500,FALSE,FRLG,90,Natural Cure,Gentle,92,354,70,190,298,149,154,Fire Punch,Psybeam,Icy Wind,Ember,12.2
+309,6/20/2023,GirlWithTheSquirtleTattoo,Houndoom,DARK,FIRE,500,TRUE,FRLG,90,Suction Cups,N/A,92,317,142,132,249,205,179,Crunch,Ice Beam,Hidden Power,Tail Glow,12.5
+283,5/15/2023,twinky1999,Houndoom,DARK,FIRE,500,TRUE,FRLG,90,Pickup,Quiet,92,266,87,224,192,227,250,Crunch,Dragon Claw,Thunder Punch,Tail Glow,17.4
+143,3/5/2024,Ice_ArchAngel,Jolteon,ELECTRIC,N/A,525,TRUE,FRLG,90,Cloud Nine,N/A,92,271,129,142,301,226,257,Thunderbolt,Aurora Beam,Dragon Rage,Gust,20.8
+137,8/22/2023,sheltiesci,Kingdra,WATER,DRAGON,540,FALSE,FRLG,90,Swift Swim,N/A,91,296,76,227,226,202,288,Dragon Claw,Blaze Kick,Shock Wave,Octazooka,17.2
+149,8/8/2023,twinky1999,Kingdra,WATER,DRAGON,540,FALSE,FRLG,90,Drought,Bold,90,183,193,272,280,193,158,Ice Beam,Feint Attack,Thunder Punch,Psychic,13.5
+213,3/22/2023,SteVanLe,Kingdra,WATER,DRAGON,540,FALSE,FRLG,90,Lightning Rod,Impish,92,331,274,233,66,177,228,Dizzy Punch,Drill Peck,Earthquake,Curse,12.4
+119,11/11/2022,Kirytr0,Kingdra,WATER,DRAGON,540,TRUE,FRLG,90,Shield Dust,N/A,92,346,153,269,284,139,216,Crunch,Drill Peck,Thunderbolt,Ice Beam,28.1
+358,11/4/2022,drrek,Kingdra,WATER,DRAGON,540,TRUE,FRLG,90,Suction Cups,N/A,91,352,142,180,382,111,146,Tail Glow,Fire Punch,Dragon Breath,Bite,16.9
+126,7/11/2022,Lightorias,Kingdra,WATER,DRAGON,540,TRUE,FRLG,90,Synchronize,Bold,90,270,73,273,286,134,270,Bubble Beam,Water Spout,Tail Glow,Flamethrower,15.5
+248,9/16/2023,residentnate,Lapras,WATER,ICE,535,FALSE,FRLG,90,Clear Body,Lonely,91,328,94,189,265,256,137,Heat Wave,Thunderbolt,Leaf Blade,Thief,13.7
+469,10/21/2022,Selen,Magmar,FIRE,N/A,495,TRUE,FRLG,90,Own Tempo,N/A,92,278,264,186,58,233,215,Rolling Kick,Meditate,Rock Throw,Aeroblast,15.6
+21,9/18/2023,Novamb,Manectric,ELECTRIC,N/A,475,TRUE,FRLG,90,Flash Fire,Mild,95,185,175,162,380,158,257,Thunderbolt,Ice Punch,Overheat,Water Spout,25.5
+468,6/1/2022,iateyourpie,Manectric,ELECTRIC,N/A,475,FALSE,FRLG,90,Sturdy,Quiet,90,336,126,197,284,83,193,Crunch,Slash,Hidden Power,Psybeam,22.3
+333,8/25/2023,Nezumi,Meganium,GRASS,N/A,525,FALSE,FRLG,90,Natural Cure,Timid,90,288,180,118,346,196,185,Thunder Punch,Crabhammer,Razor Leaf,Icy Wind,23.5
+131,6/1/2022,PulseShock,Milotic,WATER,N/A,540,FALSE,FRLG,90,Immunity,Rash,90,298,157,160,257,171,228,Water Pulse,Flame Wheel,Shock Wave,Crunch,12.2
+6,5/29/2022,Bayleef,Milotic,WATER,N/A,540,TRUE,FRLG,90,Battle Armor,Careful,90,221,45,155,394,193,273,Flamethrower,Ice Beam,Water Spout,Thunderbolt,20.9
+361,1/5/2024,Ice_ArchAngel,Mr. Mime,PSYCHIC,N/A,460,FALSE,FRLG,90,Intimidate,Calm,90,200,121,119,210,213,257,Psychic,Night Shade,Leaf Blade,Ice Beam,10.1
+27,1/13/2024,YogiEisbar,Ninetales,FIRE,N/A,505,TRUE,FRLG,90,Clear Body,Lonely,92,242,93,190,343,121,221,Fire Punch,Spark,Ice Beam,Dig,10.9
+416,4/3/2023,Varldin,Porygon2,NORMAL,N/A,515,TRUE,FRLG,90,Run Away,Impish,92,367,281,226,113,143,131,Aerial Ace,Swords Dance,Stomp,Metal Claw,12.8
+267,3/22/2023,SteVanLe,Porygon2,NORMAL,N/A,515,FALSE,FRLG,90,Compound Eyes,Rash,91,339,91,237,272,113,243,Bite,Ember,Thunderbolt,Extrasensory,19.2
+486,12/21/2022,TGH,Porygon2,NORMAL,N/A,515,TRUE,FRLG,90,Shed Skin,N/A,92,361,214,225,55,257,162,Bulk Up,Mach Punch,Shadow Ball,Dizzy Punch,16.5
+373,8/4/2023,rubes000,Rapidash,FIRE,N/A,500,FALSE,FRLG,90,Compound Eyes,Calm,91,289,197,139,175,255,181,Flamethrower,Jump Kick,Bite,Blizzard,16.1
+281,6/22/2023,eiphzor,Sceptile,GRASS,N/A,530,TRUE,FRLG,90,Serene Grace,Mild,92,332,195,142,273,198,188,Eruption,Needle Arm,Body Slam,Icy Wind,18.4
+158,10/12/2023,Crozwords,Shuckle,BUG,ROCK,505,FALSE,FRLG,90,Speed Boost,N/A,91,371,215,186,103,188,168,Earthquake,Brick Break,Swift,Curse,14.1
+508,8/5/2023,Skapp_tv,Shuckle,BUG,ROCK,505,FALSE,FRLG,90,Shell Armor,Sassy,90,322,184,148,228,183,122,Megahorn,Thunder,Cosmic Power,Rock Throw,8.9
+501,4/24/2023,Weird0,Shuckle,BUG,ROCK,505,FALSE,FRLG,90,Sticky Hold,Brave,91,314,235,139,178,136,215,Rock Slide,Rolling Kick,Magical Leaf,Blaze Kick,12.4
+190,3/22/2023,SteVanLe,Shuckle,BUG,ROCK,505,FALSE,FRLG,90,Swarm,Modest,91,323,75,218,260,144,233,Sleep Powder,Dragon Breath,Fire Punch,Water Spout,15.2
+19,11/16/2023,SmallAnt,Skarmory,STEEL,FLYING,465,TRUE,FRLG,90,Sand Stream,N/A,92,243,80,161,250,174,284,Thunderbolt,Extrasensory,Aerial Ace,Blast Burn,17.5
+233,5/28/2023,rubes000,Slowbro,WATER,PSYCHIC,490,FALSE,FRLG,90,Overgrow,N/A,90,199,131,139,430,93,212,Bubble Beam,Crunch,Flame Wheel,Outrage,16.2
+302,9/17/2023,StonNiet,Snorlax,NORMAL,N/A,540,FALSE,FRLG,90,Early Bird,N/A,91,326,299,188,81,222,164,Body Slam,Silver Wind,Sludge Bomb,Facade,12.2
+180,8/8/2023,HollyTeaLeaf,Snorlax,NORMAL,N/A,540,FALSE,FRLG,90,Magma Armor,Timid,91,242,53,183,271,243,320,Fire Punch,Luster Purge,Thunder,Tail Glow,14.3
+414,7/6/2023,vFranzen,Snorlax,NORMAL,N/A,540,TRUE,FRLG,90,Trace,N/A,91,400,306,166,126,113,192,Body Slam,Rock Slide,Earthquake,Howl,15.5
+390,6/14/2023,Shiru666,Snorlax,NORMAL,N/A,540,FALSE,FRLG,90,Thick Fat,N/A,93,336,250,130,72,273,256,Stomp,Crunch,Sludge Bomb,Guillotine,13.5
+257,11/25/2022,Dr0g,Snorlax,NORMAL,N/A,540,TRUE,FRLG,90,Poison Point,N/A,92,290,290,219,176,142,288,Body Slam,Shadow Punch,Flamethrower,Karate Chop,27.9
+322,6/5/2022,TheGons,Snorlax,NORMAL,N/A,540,FALSE,FRLG,90,Static,N/A,90,337,181,168,254,125,258,Ice Beam,Eruption,Razor Leaf,Weather Ball,20.3
+326,5/29/2022,SaltyDolphin,Starmie,WATER,PSYCHIC,520,FALSE,FRLG,90,Intimidate,Impish,90,316,266,139,156,179,206,Magnitude,Ice Beam,Fire Blast,Ice Punch,17.5
+174,8/12/2022,Arex,Steelix,STEEL,ROCK,510,FALSE,FRLG,90,Water Veil,N/A,90,316,254,276,146,128,127,Sludge Bomb,Shadow Ball,Tri Attack,Bonemerang,17.2
+114,1/13/2024,YogiEisbar,Swampert,WATER,GROUND,535,TRUE,FRLG,90,Blaze,N/A,92,174,107,270,281,269,208,Flamethrower,Thunder,Dragon Claw,Calm Mind,15.6
+140,5/2/2023,Shiru666,Swampert,WATER,GROUND,535,FALSE,FRLG,90,Static,Lax,91,333,116,234,231,204,168,Hydro Pump,Heat Wave,Magical Leaf,Outrage,14.5
+448,9/7/2023,ExarionU,Tauros,NORMAL,N/A,490,FALSE,FRLG,90,Rough Skin,Adamant,91,265,223,161,195,197,190,Aeroblast,Superpower,Thunder Punch,Megahorn,18.6
+344,7/6/2023,residentnate,Tauros,NORMAL,N/A,490,FALSE,FRLG,90,Rock Head,Careful,90,244,277,206,72,127,246,Return,Signal Beam,Sludge,High Jump Kick,10.5
+425,6/13/2022,Anowen,Tauros,NORMAL,N/A,490,TRUE,FRLG,90,Rain Dish,Adamant,92,356,306,148,63,139,215,Crush Claw,Aeroblast,Swift,Twineedle,12.5
+164,9/11/2023,Danko,Torkoal,FIRE,N/A,470,TRUE,FRLG,90,Shed Skin,Naughty,92,307,105,211,255,99,235,Ice Beam,Thunderbolt,Tail Glow,Heat Wave,19.5
+336,4/19/2023,ChadEditor,Typhlosion,FIRE,N/A,534,FALSE,FRLG,90,Limber,N/A,90,236,67,270,252,230,188,Dragon Claw,Night Shade,Solar Beam,Zap Cannon,10.3
+203,9/16/2022,rubes000,Typhlosion,FIRE,N/A,534,FALSE,FRLG,90,Pickup,Quiet,91,308,182,140,488,170,99,Fire Punch,Icicle Spear,Water Gun,Dragon Dance,24.3
+472,3/23/2023,Bengerman10,Ursaring,NORMAL,N/A,500,TRUE,FRLG,90,Air Lock,Bold,93,359,207,282,115,181,123,Extreme Speed,Return,Air Cutter,Swords Dance,16.6
+365,9/27/2023,LB_Dubss,Vaporeon,WATER,N/A,525,TRUE,FRLG,90,Chlorophyll,Naughty,91,356,267,174,127,183,166,Meteor Mash,Shadow Ball,Brick Break,Double Team,14.5
+237,11/15/2023,DrMaple,Walrein,ICE,WATER,530,TRUE,FRLG,90,Shed Skin,N/A,92,329,147,135,267,132,282,Ice Beam,Rock Throw,Psychic,Bubble,14.5
+455,4/19/2023,ChadEditor,Walrein,ICE,WATER,530,FALSE,FRLG,90,Compound Eyes,Adamant,90,414,172,106,324,71,194,Water Spout,Blizzard,Flamethrower,Confusion,19.9
+433,11/4/2022,Drrek,Weezing,POISON,N/A,490,TRUE,FRLG,90,Minus,N/A,93,322,250,162,166,166,203,Meteor Mash,Dragon Claw,Magnitude,Rock Slide,20.2
+26,12/26/2022,Supergelido,Whiscash,WATER,GROUND,468,TRUE,FRLG,90,Cute Charm,Adamant,92,181,312,177,48,228,237,Wing Attack,Dragon Dance,Low Kick,Earthquake,12.3
+216,5/31/2022,KsoChZ,Aerodactyl,ROCK,FLYING,515,TRUE,FRLG,91,Levitate,Calm,93,179,103,297,270,299,165,Eruption,Thunderbolt,Thunder Punch,Ice Punch,17.3
+438,5/11/2023,Weird0,Alakazam,PSYCHIC,N/A,490,TRUE,FRLG,91,Vital Spirit,Impish,93,333,251,136,123,181,237,Return,Rock Slide,Signal Beam,Bulk Up,19.1
+7,10/6/2023,Xgif,Altaria,DRAGON,FLYING,490,TRUE,FRLG,91,Speed Boost,N/A,93,350,124,169,276,142,149,Extrasensory,Dragon Breath,Heat Wave,Tail Glow,11.1
+319,9/30/2023,HollyTeaLeaf,Ampharos,ELECTRIC,N/A,500,FALSE,FRLG,91,Overgrow,Hasty,92,336,234,137,166,108,272,Shadow Ball,Earthquake,Aurora Beam,Drill Peck,15.4
+209,3/7/2023,WaffleSmacker,Ampharos,ELECTRIC,N/A,500,TRUE,FRLG,91,Blaze,Naive,93,313,92,127,261,152,327,Ice Punch,Octazooka,Thunderbolt,Sacred Fire,15.8
+443,7/12/2022,Cheezinator,Arcanine,FIRE,N/A,555,TRUE,FRLG,91,Water Absorb,Naive,93,423,290,112,244,101,250,Ice Beam,Aerial Ace,Bulk Up,Tail Glow,22.2
+410,8/12/2022,Tso18,Banette,GHOST,N/A,455,TRUE,FRLG,91,Limber,Careful,91,261,104,190,181,235,189,Crunch,Ember,Growth,Magical Leaf,17.1
+139,3/22/2023,SteVanLe,Blastoise,WATER,N/A,530,FALSE,FRLG,91,Rough Skin,Brave,93,182,150,244,262,275,211,Bubble Beam,Fire Punch,Water Spout,Luster Purge,18.5
+104,5/30/2022,TimeRocker,Blastoise,WATER,N/A,530,TRUE,FRLG,91,Rock Head,N/A,93,177,111,187,380,311,200,Sacred Fire,Bubble Beam,Extrasensory,Needle Arm,23.1
+35,3/26/2024,Whimsick_,Blaziken,FIRE,FIGHTING,530,TRUE,FRLG,91,Minus,N/A,93,277,67,235,376,151,207,Flamethrower,Razor Leaf,Icy Wind,Muddy Water,15.5
+206,10/1/2023,Nix,Blaziken,FIRE,FIGHTING,530,FALSE,FRLG,91,Serene Grace,Jolly,91,261,303,213,155,144,245,Double Kick,Bonemerang,Rock Blast,Thunderbolt,20
+134,2/20/2024,Weird0,Blissey,NORMAL,N/A,540,FALSE,FRLG,91,Air Lock,Naive,92,230,176,237,283,235,149,Thunderbolt,Crunch,Aerial Ace,Frenzy Plant,16.2
+510,10/17/2023,Shiru666,Blissey,NORMAL,N/A,540,FALSE,FRLG,91,Hustle,Rash,91,361,270,235,200,99,135,Nature Power,Quick Attack,Drill Peck,Crabhammer,14
+348,9/2/2023,Nix,Blissey,NORMAL,N/A,540,FALSE,FRLG,91,Hyper Cutter,Naive,91,353,278,249,93,198,184,Facade,Drill Peck,Sky Uppercut,Meteor Mash,23.6
+121,8/2/2022,iateyourpie,Blissey,NORMAL,N/A,540,FALSE,FRLG,91,Run Away,Rash,91,291,91,117,380,198,249,Flamethrower,Muddy Water,Magical Leaf,Outrage,16.9
+157,3/1/2024,Juanlyways,Charizard,FIRE,FLYING,534,FALSE,FRLG,91,Torrent,Jolly,92,385,300,170,73,175,245,Return,Air Cutter,Shadow Ball,Rolling Kick,19.4
+120,9/28/2023,ExarionU,Charizard,FIRE,FLYING,534,TRUE,FRLG,91,Soundproof,Lonely,93,288,355,150,109,217,205,Swift,Flame Wheel,Bonemerang,Ice Punch,13.9
+81,11/13/2023,DrMaple,Claydol,GROUND,PSYCHIC,500,FALSE,FRLG,91,Thick Fat,Quiet,91,226,87,259,284,195,165,Extrasensory,Shadow Punch,Thunderbolt,Crabhammer,12.1
+262,9/29/2023,xX Saad Xx,Cradily,ROCK,GRASS,495,FALSE,FRLG,91,Swift Swim,Timid,93,355,85,150,313,225,144,Feint Attack,Icy Wind,Needle Arm,Shock Wave,18.6
+132,1/10/2023,Weird0,Crawdaunt,WATER,DARK,468,FALSE,FRLG,91,Compound Eyes,N/A,94,307,108,144,267,262,122,Psychic,Blaze Kick,Bubble Beam,Thunder,15.5
+92,9/27/2023,FawndLee,Crobat,POISON,FLYING,535,TRUE,FRLG,91,Volt Absorb,Relaxed,92,306,248,247,114,207,213,Drill Peck,Howl,Sludge Bomb,Water Pulse,19.5
+398,2/29/2024,SmoothestMango,Donphan,GROUND,N/A,500,FALSE,FRLG,91,Suction Cups,Quiet,92,315,219,165,228,133,178,Thunder Punch,Bonemerang,Heat Wave,Magical Leaf,14.5
+483,10/13/2023,Nansey,Dustox,BUG,POISON,385,TRUE,FRLG,91,Compound Eyes,Lonely,93,235,257,150,57,124,234,Sludge Bomb,Swords Dance,Meteor Mash,Lovely Kiss,17.3
+323,8/5/2022,Arex,Electabuzz,ELECTRIC,N/A,490,FALSE,FRLG,91,White Smoke,Lax,91,246,282,228,180,74,217,Icy Wind,Drill Peck,Thunderbolt,Facade,15.8
+292,11/21/2022,rubes000,Electrode,ELECTRIC,N/A,480,TRUE,FRLG,91,Levitate,Timid,93,409,58,106,340,177,150,Spark,Water Pulse,Ice Punch,Tail Glow,17.8
+305,11/1/2023,F00Dstar,Espeon,PSYCHIC,N/A,525,TRUE,FRLG,91,Oblivious,Modest,93,367,145,157,302,163,226,Psychic,Dragon Claw,Water Pulse,Ember,22
+125,9/23/2023,Nix,Espeon,PSYCHIC,N/A,525,TRUE,FRLG,91,Soundproof,N/A,91,201,206,158,272,132,249,Psychic,Thunderbolt,Flamethrower,Crunch,7
+353,1/10/2023,Weird0,Espeon,PSYCHIC,N/A,525,TRUE,FRLG,91,Clear Body,N/A,93,268,76,119,483,121,289,Psychic,Dragon Claw,Hydro Cannon,Mist Ball,23
+489,5/30/2022,Albican,Espeon,PSYCHIC,N/A,525,TRUE,FRLG,91,Keen Eye,N/A,93,357,197,168,251,183,180,Muddy Water,Signal Beam,Karate Chop,Rock Slide,20.2
+215,11/5/2022,Lightorias,Exeggutor,GRASS,PSYCHIC,520,TRUE,FRLG,91,Thick Fat,Gentle,91,247,266,171,237,144,212,Return,Megahorn,Thunderbolt,Aerial Ace,17.8
+327,3/5/2024,Shiru666,Fearow,NORMAL,FLYING,442,FALSE,FRLG,91,Swift Swim,Careful,92,203,361,113,79,132,223,Hyper Voice,Signal Beam,Shadow Punch,Double Kick,10.4
+235,3/18/2024,cgames19,Feraligatr,WATER,N/A,530,FALSE,FRLG,91,Keen Eye,Quiet,91,243,187,141,429,80,195,Thunderbolt,Flamethrower,Extrasensory,Bubble Beam,11.5
+413,7/14/2022,Shirdel,Flareon,FIRE,N/A,525,FALSE,FRLG,91,Shield Dust,Mild,91,334,201,135,278,103,240,Blaze Kick,Water Pulse,Tri Attack,Tail Glow,16.2
+250,5/23/2023,Shrew_,Flygon,GROUND,DRAGON,520,FALSE,FRLG,91,Shield Dust,N/A,91,281,180,122,255,171,235,Dragon Breath,Flame Wheel,Crabhammer,Leaf Blade,12.1
+387,2/23/2023,WaffleSmacker,Flygon,GROUND,DRAGON,520,FALSE,FRLG,91,Hyper Cutter,N/A,91,262,121,115,254,277,250,Dragon Breath,Jump Kick,Super Fang,Blaze Kick,17.3
+109,11/6/2022,Ayss,Flygon,GROUND,DRAGON,520,TRUE,FRLG,91,Thick Fat,Lonely,93,315,355,194,51,217,180,Earthquake,Tri Attack,Ancient Power,Return,17.8
+136,10/12/2023,Deceit,Gengar,GHOST,POISON,500,TRUE,FRLG,91,Water Veil,N/A,93,220,262,224,167,167,239,Shadow Ball,Ice Punch,Thunder Punch,Tail Glow,18.8
+314,8/23/2023,ExarionU,Gengar,GHOST,POISON,500,TRUE,FRLG,91,Suction Cups,Brave,93,379,167,148,277,135,185,Poison Fang,Ice Beam,Crabhammer,Fire Blast,21.4
+294,6/1/2022,IsThisAFrog,Gengar,GHOST,POISON,500,TRUE,FRLG,91,Inner Focus,N/A,91,281,335,139,189,140,169,Shadow Ball,Magnitude,Rock Tomb,Dragon Dance,18.9
+293,3/4/2024,Sencoding,Gorebyss,WATER,N/A,485,TRUE,FRLG,91,Rough Skin,Sassy,93,319,263,163,161,176,184,Earthquake,Body Slam,Wing Attack,Magical Leaf,21.9
+47,5/29/2022,msten19,Gyarados,WATER,FLYING,540,TRUE,FRLG,91,Shield Dust,N/A,91,214,326,280,81,162,250,Drill Peck,Dizzy Punch,Mud Shot,Meditate,16.9
+82,12/13/2023,Shiru666,Houndoom,DARK,FIRE,500,FALSE,FRLG,91,Pickup,Relaxed,91,344,94,191,237,166,207,Crunch,Muddy Water,Low Kick,Agility,17.6
+51,11/16/2023,SteVanLe,Houndoom,DARK,FIRE,500,FALSE,FRLG,91,Rough Skin,Relaxed,93,264,98,204,282,220,177,Crunch,Blaze Kick,Crabhammer,Needle Arm,13.9
+303,3/2/2024,DahLemur,Hypno,PSYCHIC,N/A,483,TRUE,FRLG,91,Early Bird,Bold,93,328,74,134,252,226,228,Extrasensory,Ice Beam,Bite,Crabhammer,17.4
+30,9/18/2023,Bobelle,Jolteon,ELECTRIC,N/A,525,TRUE,FRLG,91,Serene Grace,Calm,93,316,59,222,317,225,181,Thunderbolt,Flamethrower,Dragon Claw,Earthquake,16
+217,2/28/2023,RiderSSPU,Jolteon,ELECTRIC,N/A,525,FALSE,FRLG,91,Pickup,Adamant,91,273,335,203,47,184,241,Headbutt,Meteor Mash,Megahorn,Facade,13.7
+355,6/4/2022,Shooter McGavin,Jolteon,ELECTRIC,N/A,525,TRUE,FRLG,91,Liquid Ooze,Relaxed,93,346,84,255,188,230,187,Heat Wave,Thunderbolt,Extrasensory,Aurora Beam,13.2
+8,5/29/2022,Flipfox,Jolteon,ELECTRIC,N/A,525,TRUE,FRLG,91,Levitate,Lonely,91,282,78,171,362,168,252,Thunderbolt,Aurora Beam,Extrasensory,Flamethrower,22.6
+444,8/21/2023,CptCuddlebuns,Kecleon,NORMAL,N/A,440,FALSE,FRLG,91,Stench,Naughty,91,223,294,222,86,155,138,Body Slam,Dragon Dance,Sludge Bomb,Silver Wind,13.1
+80,12/22/2023,Ice_ArchAngel,Kingdra,WATER,DRAGON,540,FALSE,FRLG,91,Hyper Cutter,N/A,92,228,116,252,314,227,196,Ice Beam,Flamethrower,Sludge Bomb,Sky Uppercut,17.7
+337,10/27/2023,Ice_ArchAngel,Kingdra,WATER,DRAGON,540,TRUE,FRLG,91,Color Change,Naughty,93,296,269,184,207,193,200,Return,Swords Dance,Pursuit,Psychic,17.6
+417,10/11/2023,WaffleSmacker,Kingdra,WATER,DRAGON,540,FALSE,FRLG,91,Serene Grace,Quiet,91,368,256,191,132,106,214,Rock Slide,Secret Power,Shadow Ball,Cross Chop,12
+461,9/8/2023,ExarionU,Kingdra,WATER,DRAGON,540,FALSE,FRLG,91,Thick Fat,Hasty,92,296,189,190,212,230,194,Extrasensory,Blaze Kick,Blizzard,Dizzy Punch,15.1
+34,10/4/2022,FoxBoostTV,Kingdra,WATER,DRAGON,540,TRUE,FRLG,91,Immunity,N/A,92,296,188,138,302,210,190,Water Spout,Confusion,Shadow Ball,Spark,16.4
+220,7/12/2022,heyhihowadoin,Kingdra,WATER,DRAGON,540,TRUE,FRLG,91,Plus,N/A,93,361,351,145,61,192,236,Body Slam,Iron Tail,Wing Attack,Dig,17.6
+397,6/2/2022,RiztheWizard,Kingdra,WATER,DRAGON,540,FALSE,FRLG,91,Drought,Rash,92,343,167,256,302,101,160,Solar Beam,Karate Chop,Overheat,Ice Beam,14.9
+399,7/31/2023,GirlWithTheSquirtleTattoo,Kingler,WATER,N/A,475,FALSE,FRLG,91,Overgrow,Mild,91,355,73,117,300,155,198,Fire Punch,Needle Arm,Thief,Horn Drill,15.2
+260,11/5/2023,Mnchngrngs,Lanturn,WATER,ELECTRIC,460,TRUE,FRLG,91,Compound Eyes,Timid,93,232,122,114,359,125,265,Muddy Water,Leaf Blade,Flamethrower,Water Spout,19.3
+227,4/19/2023,ChadEditor,Lapras,WATER,ICE,535,TRUE,FRLG,91,Huge Power,Brave,94,309,91,284,223,184,218,Ice Beam,Bubble Beam,Fire Punch,Tail Glow,14
+318,4/15/2023,Lucellia,Lapras,WATER,ICE,535,TRUE,FRLG,91,Stench,Rash,91,367,79,197,316,187,171,Aurora Beam,Bite,Thunder Punch,Icy Wind,17.6
+178,9/29/2023,xX Saad Xx,Machamp,FIGHTING,N/A,505,FALSE,FRLG,91,Water Veil,Gentle,91,246,74,140,347,117,290,Ice Beam,Psychic,Needle Arm,Flame Wheel,12.3
+222,2/15/2024,Ice_ArchAngel,Magmar,FIRE,N/A,495,FALSE,FRLG,91,Illuminate,Careful,92,192,330,241,103,172,224,Mach Punch,Bone Club,Eruption,Extreme Speed,19
+471,6/14/2023,Shiru666,Meganium,GRASS,N/A,525,FALSE,FRLG,91,Swift Swim,N/A,91,333,225,146,207,144,201,Water Spout,Rock Slide,Ice Beam,Brick Break,12.5
+193,10/16/2023,dynamungo,Milotic,WATER,N/A,540,FALSE,FRLG,91,Early Bird,Naive,91,232,279,231,197,167,179,Signal Beam,Secret Power,Dragon Claw,Fire Blast,13.2
+135,3/23/2023,YogiEisbar,Milotic,WATER,N/A,540,FALSE,FRLG,91,Swarm,Lax,93,326,74,137,332,128,330,Water Pulse,Pursuit,Extrasensory,Fire Punch,15.2
+286,8/9/2022,NumottheNummy,Milotic,WATER,N/A,540,TRUE,FRLG,91,Shield Dust,Gentle,91,384,303,135,96,205,207,Earthquake,Headbutt,Extreme Speed,Flamethrower,18.8
+85,8/4/2022,Koryu87,Milotic,WATER,N/A,540,FALSE,FRLG,91,Minus,Gentle,93,304,222,172,246,210,188,Muddy Water,Low Kick,Eruption,Magical Leaf,17
+295,7/13/2022,MorningCig,Muk,POISON,N/A,500,TRUE,FRLG,91,Liquid Ooze,N/A,91,224,60,110,441,165,239,Bullet Seed,Rock Throw,Teeter Dance,Flamethrower,17.5
+16,7/13/2022,sheltiesci,Poliwrath,WATER,FIGHTING,500,TRUE,FRLG,91,Speed Boost,Bold,91,341,231,216,245,125,103,Bubble Beam,Sky Uppercut,Needle Arm,Air Cutter,21.1
+379,3/30/2023,Weird0,Porygon2,NORMAL,N/A,515,FALSE,FRLG,91,Serene Grace,Impish,93,273,298,270,135,161,162,Tri Attack,Double Kick,Shadow Ball,Howl,16.2
+420,11/27/2023,EconSean,Raichu,ELECTRIC,N/A,475,TRUE,FRLG,91,Stench,Careful,93,369,290,204,110,130,109,Return,Dragon Dance,Rolling Kick,Earthquake,15.8
+79,9/11/2023,Nezumi,Rapidash,FIRE,N/A,500,FALSE,FRLG,91,Rain Dish,Quiet,92,228,117,175,337,199,205,Ice Beam,Leaf Blade,Bite,Luster Purge,16.9
+423,5/23/2023,Shrew_,Sceptile,GRASS,N/A,530,FALSE,FRLG,91,Water Veil,N/A,91,418,323,140,41,278,111,Gust,Silver Wind,Sky Attack,Secret Power,21.8
+339,5/29/2022,Sparkle,Scizor,BUG,STEEL,500,TRUE,FRLG,91,Flash Fire,N/A,91,241,302,197,80,280,105,Meteor Mash,Extreme Speed,Aeroblast,Sleep Talk,11.5
+185,4/19/2023,ChadEditor,Shuckle,BUG,ROCK,505,FALSE,FRLG,91,Run Away,Jolly,91,189,159,267,229,183,249,Sacred Fire,Ice Punch,Spark,Bone Rush,21.4
+265,3/22/2023,SteVanLe,Shuckle,BUG,ROCK,505,FALSE,FRLG,91,Damp,Calm,93,297,144,216,257,185,204,Crunch,Hydro Pump,Double Kick,Aurora Beam,20.8
+112,11/27/2022,jellyfishswimmer,Skarmory,STEEL,FLYING,465,TRUE,FRLG,91,Sand Stream,Lax,92,220,77,184,299,214,216,Sacred Fire,Flame Wheel,Needle Arm,Thunder Punch,21.6
+459,7/5/2022,Krisjanis,Skarmory,STEEL,FLYING,465,FALSE,FRLG,91,Drizzle,Hasty,92,346,211,145,200,61,235,Thunder,Drill Peck,Weather Ball,Dragon Claw,17.6
+138,6/6/2022,EconSean,Skarmory,STEEL,FLYING,465,FALSE,FRLG,91,Blaze,N/A,91,295,103,187,206,173,230,Hydro Cannon,Solar Beam,Extrasensory,Aeroblast,19.9
+195,10/12/2023,Patterz,Slowbro,WATER,PSYCHIC,490,TRUE,FRLG,91,Volt Absorb,Careful,91,363,74,140,287,158,159,Bubble Beam,Extrasensory,Heat Wave,Leaf Blade,13.3
+273,6/3/2022,Raen,Slowbro,WATER,PSYCHIC,490,FALSE,FRLG,91,Rough Skin,N/A,91,353,282,142,142,120,192,Earthquake,Sludge Bomb,Sky Uppercut,Fire Punch,18.4
+434,11/8/2023,DrMaple,Snorlax,NORMAL,N/A,540,FALSE,FRLG,91,Flash Fire,Hasty,91,353,226,178,129,240,176,Slash,Aeroblast,Karate Chop,Swords Dance,15.8
+290,10/20/2023,StreamingFalcon,Snorlax,NORMAL,N/A,540,FALSE,FRLG,91,Flash Fire,Impish,91,341,180,141,234,190,187,Return,Leaf Blade,Flame Wheel,Dragon Claw,13.1
+475,10/11/2023,Nix,Snorlax,NORMAL,N/A,540,FALSE,FRLG,91,Rock Head,N/A,91,385,255,198,174,80,215,Double-Edge,Volt Tackle,Ice Beam,Crunch,16
+244,9/21/2023,SmallAnt,Snorlax,NORMAL,N/A,540,FALSE,FRLG,91,Rock Head,Lax,91,203,269,215,218,160,227,Headbutt,Volt Tackle,Bite,Silver Wind,13.6
+342,7/4/2023,twinky1999,Snorlax,NORMAL,N/A,540,TRUE,FRLG,91,Flame Body,Adamant,93,318,376,142,126,169,215,Return,Aeroblast,Ancient Power,Silver Wind,14.7
+307,6/19/2023,Shiru666,Snorlax,NORMAL,N/A,540,FALSE,FRLG,91,Serene Grace,Rash,91,297,399,130,184,138,178,Body Slam,Low Kick,Bonemerang,Shadow Punch,18.5
+202,4/16/2023,Lightorias,Snorlax,NORMAL,N/A,540,TRUE,FRLG,91,Suction Cups,Impish,93,269,331,229,130,136,269,Return,Hyper Voice,Heat Wave,Magnitude,19.2
+77,4/9/2023,RiderSSPU,Snorlax,NORMAL,N/A,540,FALSE,FRLG,91,Hyper Cutter,Modest,91,251,144,255,364,95,225,Thunderbolt,Feint Attack,Icy Wind,Eruption,17.4
+246,2/5/2023,Keizaron,Snorlax,NORMAL,N/A,540,FALSE,FRLG,91,Limber,N/A,91,289,293,254,102,108,241,Tri Attack,Sludge Bomb,Shadow Ball,Brick Break,13.2
+57,10/6/2023,DahLemur,Starmie,WATER,PSYCHIC,520,TRUE,FRLG,91,Overgrow,Gentle,94,233,101,238,268,228,241,Psychic,Icy Wind,Hydro Pump,Flamethrower,16.5
+347,9/11/2023,Nix,Starmie,WATER,PSYCHIC,520,TRUE,FRLG,91,Compound Eyes,Hasty,93,403,103,147,244,151,237,Hydro Pump,Thunder,Crunch,Rain Dance,13.4
+37,9/29/2023,xX Saad Xx,Steelix,STEEL,ROCK,510,FALSE,FRLG,91,Lightning Rod,Mild,91,306,87,201,349,126,166,Flamethrower,Ice Punch,Petal Dance,Mist Ball,12
+429,10/21/2023,residentnate,Swampert,WATER,GROUND,535,TRUE,FRLG,91,Run Away,Modest,93,267,50,227,300,318,137,Ice Beam,Blaze Kick,Thunder,Sheer Cold,10.7
+391,8/8/2022,Nix,Tauros,NORMAL,N/A,490,TRUE,FRLG,91,Swarm,Relaxed,93,213,63,156,400,111,290,Thunderbolt,Hydro Pump,Water Pulse,Dragon Rage,17.9
+385,4/19/2023,ChadEditor,Tentacruel,WATER,POISON,515,FALSE,FRLG,91,Rain Dish,Lax,91,370,202,255,211,93,196,Thunderbolt,Slash,Heat Wave,Feint Attack,23.9
+14,9/2/2022,Alesha,Tentacruel,WATER,POISON,515,TRUE,FRLG,91,Speed Boost,Naughty,92,335,193,165,252,205,111,Extrasensory,Ice Beam,Feint Attack,High Jump Kick,14.7
+219,1/18/2023,Bamkel,Typhlosion,FIRE,N/A,534,FALSE,FRLG,91,Limber,Jolly,91,349,115,142,225,243,233,Aeroblast,Muddy Water,Flame Wheel,Icicle Spear,18.1
+207,1/31/2023,Shiru666,Umbreon,DARK,N/A,525,FALSE,FRLG,91,Marvel Scale,Hasty,91,329,114,184,231,147,277,Crunch,Water Pulse,Fissure,Psybeam,15.7
+396,7/27/2022,Browny_Live,Ursaring,NORMAL,N/A,500,FALSE,FRLG,91,Pickup,N/A,91,260,270,303,89,134,165,Dizzy Punch,Bonemerang,Metal Claw,Bulk Up,14
+478,10/6/2023,dynamungo,Vaporeon,WATER,N/A,525,FALSE,FRLG,91,Shield Dust,Lax,91,379,61,73,278,188,275,Bite,Luster Purge,Hidden Power,Iron Defense,14.9
+124,8/7/2022,Forgotten Reaper,Vaporeon,WATER,N/A,525,TRUE,FRLG,91,Flame Body,N/A,90,319,328,113,59,231,220,Dragon Dance,Shadow Ball,Drill Peck,Double Kick,16.6
+91,5/30/2022,CatVacuum,Vaporeon,WATER,N/A,525,TRUE,FRLG,91,Keen Eye,N/A,93,385,81,205,273,145,257,Bite,Aurora Beam,Flamethrower,Hydro Cannon,21.6
+70,5/29/2022,Mikujin,Wailord,WATER,N/A,500,TRUE,FRLG,91,Battle Armor,Rash,91,216,56,236,344,237,130,Bubble Beam,Ice Punch,Extrasensory,Flame Wheel,14.3
+252,8/2/2022,ExarionU,Weezing,POISON,N/A,490,TRUE,FRLG,91,Illuminate,Lonely,91,344,242,199,97,227,113,Sludge Bomb,Eruption,Agility,Signal Beam,17
+401,10/13/2023,Nansey,Wobbuffet,PSYCHIC,N/A,405,TRUE,FRLG,91,Serene Grace,Timid,93,216,108,252,263,148,136,Mist Ball,Dragon Breath,Heat Wave,Muddy Water,23.2
+99,6/1/2022,jerry,Aggron,STEEL,ROCK,530,TRUE,FRLG,92,Sturdy,Modest,94,194,204,228,392,79,193,Bite,Thunder Shock,Water Spout,Powder Snow,8.6
+499,10/1/2023,Poisson,Ampharos,ELECTRIC,N/A,500,FALSE,FRLG,92,Sand Veil,Naughty,93,194,364,125,261,78,264,Blizzard,Sludge Bomb,Mud-Slap,Rock Throw,16.2
+359,4/12/2023,Weird0,Ampharos,ELECTRIC,N/A,500,TRUE,FRLG,92,Soundproof,Relaxed,94,296,246,163,119,264,180,Shadow Ball,Sludge Bomb,Bone Rush,Meditate,15.9
+72,1/10/2023,Weird0,Blaziken,FIRE,FIGHTING,530,TRUE,FRLG,92,Drought,Bold,94,291,102,154,276,305,206,Ice Beam,Blaze Kick,Tail Glow,Shock Wave,16.2
+405,8/2/2022,ExarionU,Blaziken,FIRE,FIGHTING,530,TRUE,FRLG,92,Guts,Rash,93,289,111,281,258,91,337,Heat Wave,Ice Beam,Sleep Powder,Razor Leaf,21.3
+129,5/29/2022,Hershey,Blaziken,FIRE,FIGHTING,530,TRUE,FRLG,92,Clear Body,N/A,92,289,87,228,318,168,221,Dragon Breath,Dragon Claw,Magical Leaf,Feint Attack,17.2
+437,4/19/2023,ChadEditor,Blissey,NORMAL,N/A,540,TRUE,FRLG,92,Damp,Adamant,94,433,268,211,50,213,184,Extreme Speed,Rock Tomb,Low Kick,Bonemerang,15.5
+408,4/19/2023,ChadEditor,Blissey,NORMAL,N/A,540,FALSE,FRLG,92,Oblivious,N/A,93,314,239,199,175,245,172,Headbutt,Signal Beam,Leaf Blade,Sacred Fire,17.3
+41,3/8/2023,brdy,Blissey,NORMAL,N/A,540,FALSE,FRLG,92,Effect Spore,N/A,93,222,119,140,378,226,273,Eruption,Magical Leaf,Psybeam,Shock Wave,19.2
+17,10/13/2023,Nansey,Castform,NORMAL,N/A,420,TRUE,FRLG,92,Speed Boost,Rash,94,197,249,191,198,195,81,Hyper Voice,Earthquake,Shadow Ball,Dragon Dance,14.5
+264,9/24/2023,ChadEditor,Charizard,FIRE,FLYING,534,FALSE,FRLG,92,Liquid Ooze,Gentle,92,249,318,201,231,110,208,Air Cutter,Thunderbolt,Arm Thrust,Bulk Up,18.8
+144,5/30/2022,SaltyDolphin,Charizard,FIRE,FLYING,534,TRUE,FRLG,92,Swarm,Timid,94,306,292,219,69,166,238,Wing Attack,Shadow Ball,Nature Power,Rock Throw,10.9
+133,4/19/2023,ChadEditor,Crobat,POISON,FLYING,535,TRUE,FRLG,92,Inner Focus,Lax,94,368,139,250,222,216,156,Crunch,Magical Leaf,Water Spout,Tail Glow,17.8
+154,6/1/2022,CptCuddleBuns,Crobat,POISON,FLYING,535,FALSE,FRLG,92,Water Veil,Bold,92,310,92,257,236,219,190,Icicle Spear,Gust,Thunderbolt,Bonemerang,13
+147,8/11/2022,Lunalise,Espeon,PSYCHIC,N/A,525,TRUE,FRLG,92,Shield Dust,N/A,92,295,73,181,349,190,205,Extrasensory,Calm Mind,Flamethrower,Ice Beam,16
+238,7/30/2022,Scarbo,Espeon,PSYCHIC,N/A,525,FALSE,FRLG,92,Intimidate,Modest,92,189,149,229,234,258,224,Extrasensory,Shock Wave,Ice Beam,Fire Blast,13.8
+230,6/1/2022,Wigum,Espeon,PSYCHIC,N/A,525,TRUE,FRLG,92,Flash Fire,Rash,94,184,101,236,221,305,250,Extrasensory,Thunderbolt,Flamethrower,Bubble Beam,14.6
+116,8/10/2022,alexander_the_0k,Feraligatr,WATER,N/A,530,TRUE,FRLG,92,Immunity,Gentle,93,341,135,207,238,170,223,Water Pulse,Flamethrower,Tail Glow,Ice Punch,16.8
+481,2/12/2024,Nezumi,Flygon,GROUND,DRAGON,520,FALSE,FRLG,92,Trace,Hasty,93,442,141,103,180,222,222,Dragon Claw,Crabhammer,Thunderbolt,Blaze Kick,16.5
+312,11/14/2023,StreamingFalcon,Flygon,GROUND,DRAGON,520,FALSE,FRLG,92,Rain Dish,Naughty,92,310,85,143,270,170,295,Bubble Beam,Sacred Fire,Rain Dance,Razor Leaf,16
+199,1/11/2023,Weird0,Flygon,GROUND,DRAGON,520,FALSE,FRLG,92,Flame Body,Sassy,93,391,113,147,242,212,188,Psychic,Thunder Punch,Eruption,Megahorn,15.6
+76,9/22/2023,PowaSlap,Forretress,BUG,STEEL,465,FALSE,FRLG,92,Flash Fire,N/A,93,302,71,184,241,258,161,Psybeam,Bite,Ice Beam,Shock Wave,19.5
+393,3/1/2024,GirlWithTheSquirtleTattoo,Gardevoir,PSYCHIC,N/A,518,FALSE,FRLG,92,Water Veil,Naughty,93,226,151,146,299,129,320,Extrasensory,Blizzard,Dragon Claw,Slash,12.8
+150,6/8/2022,VTDara,Gengar,GHOST,POISON,500,TRUE,FRLG,92,Levitate,Sassy,94,231,286,124,56,277,270,Drill Peck,Mud Shot,Sludge Bomb,Swords Dance,13
+170,9/28/2023,M3tallion,Gyarados,WATER,FLYING,540,FALSE,FRLG,92,Rough Skin,Modest,92,190,55,258,236,304,281,Water Pulse,Extrasensory,Ice Punch,Thunder Punch,14.9
+110,4/15/2023,Lucellia,Heracross,BUG,FIGHTING,500,TRUE,FRLG,92,Speed Boost,Modest,92,309,225,287,83,167,176,Brick Break,Wing Attack,Shadow Ball,Swords Dance,18.6
+52,1/12/2023,soundmanD,Houndoom,DARK,FIRE,500,TRUE,FRLG,92,Trace,Calm,94,302,49,222,253,203,234,Flame Wheel,Thunder Punch,Crunch,Frenzy Plant,14.4
+421,1/10/2023,Weird0,Huntail,WATER,N/A,485,FALSE,FRLG,92,Marvel Scale,N/A,92,324,236,143,279,134,131,Psychic,Rock Blast,Karate Chop,Ember,20.3
+188,12/7/2023,Crozwords,Jolteon,ELECTRIC,N/A,525,TRUE,FRLG,92,Damp,Lax,93,385,82,272,299,79,211,Sacred Fire,Feint Attack,Dragon Claw,Water Pulse,16.7
+211,10/5/2023,HollyTeaLeaf,Jolteon,ELECTRIC,N/A,525,FALSE,FRLG,92,Liquid Ooze,Bold,92,271,268,270,139,156,182,Signal Beam,Aeroblast,Flamethrower,Secret Power,15.7
+88,4/18/2023,RiderSSPU,Jolteon,ELECTRIC,N/A,525,FALSE,FRLG,92,Rock Head,Timid,92,192,172,280,270,143,203,Volt Tackle,Aurora Beam,Eruption,Razor Leaf,11.3
+447,3/22/2023,SteVanLe,Kangaskhan,NORMAL,N/A,490,FALSE,FRLG,92,Hustle,Modest,94,356,119,105,334,174,158,Return,Eruption,Thunderbolt,Muddy Water,12.1
+159,2/22/2024,SmoothestMango,Kingdra,WATER,DRAGON,540,TRUE,FRLG,92,Sand Veil,N/A,94,288,183,109,384,142,240,Ice Beam,Hydro Pump,Bite,Earthquake,15.6
+56,11/30/2023,gété,Kingdra,WATER,DRAGON,540,TRUE,FRLG,92,Effect Spore,N/A,94,413,63,213,270,191,195,Water Spout,Eruption,Ice Beam,Leaf Blade,16
+171,11/17/2023,WaffleSmacker,Kingdra,WATER,DRAGON,540,FALSE,FRLG,92,Rain Dish,Sassy,92,309,71,88,256,265,324,Water Spout,Psychic,Flamethrower,Thunder Shock,16.6
+161,9/24/2023,Typical_Zeus,Kingdra,WATER,DRAGON,540,TRUE,FRLG,92,Chlorophyll,Modest,95,228,126,132,387,204,286,Blaze Kick,Dragon Claw,Meteor Mash,Eruption,13.1
+346,4/15/2023,Weird0,Kingdra,WATER,DRAGON,540,FALSE,FRLG,92,Drizzle,Naughty,94,298,182,237,224,144,259,Water Pulse,Dragon Claw,Hyper Voice,Doom Desire,15.3
+457,2/14/2023,xwater,Kingdra,WATER,DRAGON,540,TRUE,FRLG,92,Air Lock,N/A,94,434,229,166,178,159,196,Hyper Voice,Night Shade,Megahorn,Extrasensory,17.8
+184,5/31/2022,Oogblad,Kingdra,WATER,DRAGON,540,TRUE,FRLG,92,Limber,Bold,94,314,162,299,247,188,135,Dragon Breath,Fire Punch,Thunder Punch,Agility,14.2
+100,3/27/2023,Lemon,Lapras,WATER,ICE,535,TRUE,FRLG,92,Intimidate,Bold,94,321,72,236,373,238,128,Bubble Beam,Blaze Kick,Magical Leaf,Blizzard,18.1
+482,6/22/2023,Asaye,Linoone,NORMAL,N/A,420,FALSE,FRLG,92,Run Away,Modest,94,344,219,177,78,133,191,Secret Power,Headbutt,Aeroblast,Eruption,22.4
+498,1/6/2024,Ice_ArchAngel,Lunatone,ROCK,PSYCHIC,440,FALSE,FRLG,92,Liquid Ooze,Adamant,92,326,204,162,69,195,179,Magnitude,Return,Rock Throw,Twineedle,13.8
+168,2/11/2023,Crozwords,Magmar,FIRE,N/A,495,TRUE,FRLG,92,Static,N/A,93,262,63,211,433,112,158,Heat Wave,Crunch,Growth,Agility,14.7
+117,3/16/2023,brdy,Manectric,ELECTRIC,N/A,475,FALSE,FRLG,92,Levitate,Quiet,92,269,116,182,278,113,214,Flamethrower,Shock Wave,Extrasensory,Powder Snow,11.1
+172,5/29/2022,JestersQuest,Meganium,GRASS,N/A,525,TRUE,FRLG,92,Flash Fire,N/A,92,284,117,267,303,120,212,Needle Arm,Fire Punch,Blizzard,Muddy Water,17.4
+12,4/19/2023,ChadEditor,Milotic,WATER,N/A,540,FALSE,FRLG,92,Volt Absorb,N/A,93,388,61,127,299,194,283,Extrasensory,Water Spout,Dragon Breath,Tail Glow,19.1
+480,10/13/2023,Nansey,Misdreavus,GHOST,N/A,435,TRUE,FRLG,92,Own Tempo,Lax,94,261,255,95,123,183,180,Brick Break,Secret Power,Flamethrower,Astonish,8.7
+24,10/21/2022,FoxBoostTV,Muk,POISON,N/A,500,TRUE,FRLG,92,Pickup,N/A,93,260,385,178,86,149,196,Dragon Dance,Low Kick,Sludge Bomb,Drill Peck,15
+166,3/13/2024,UTDZac,Skarmory,STEEL,FLYING,465,TRUE,FRLG,92,Stench,Lax,93,355,133,143,306,102,193,Thunderbolt,Needle Arm,Sacred Fire,Rock Slide,21.7
+509,10/19/2023,OnlyShorts,Skarmory,STEEL,FLYING,465,TRUE,FRLG,92,Hustle,Mild,94,279,210,205,71,208,207,Drill Peck,Nature Power,Rock Slide,Double Kick,14.2
+258,9/27/2022,Lightorias,Skarmory,STEEL,FLYING,465,TRUE,FRLG,92,Volt Absorb,Gentle,94,392,70,189,275,105,203,Thunderbolt,Psychic,Bite,Calm Mind,22
+53,9/26/2023,ExarionU,Slowking,WATER,PSYCHIC,490,FALSE,FRLG,92,Serene Grace,Jolly,93,199,82,175,267,257,236,Psybeam,Megahorn,Water Pulse,Icy Wind,13.3
+173,2/21/2024,PowaSlap,Snorlax,NORMAL,N/A,540,TRUE,FRLG,92,Suction Cups,Mild,93,291,72,124,380,199,336,Thunderbolt,Blizzard,Muddy Water,Overheat,22.5
+189,8/25/2023,sheltiesci,Snorlax,NORMAL,N/A,540,TRUE,FRLG,92,Minus,Lax,93,175,364,303,113,183,234,Hyper Voice,Rock Throw,Magnitude,Extreme Speed,20.2
+424,4/16/2023,Weird0,Snorlax,NORMAL,N/A,540,FALSE,FRLG,92,Damp,Hasty,92,193,263,200,180,269,195,Tri Attack,Bone Club,Gust,Thunder,13.7
+68,11/28/2022,Il_Ninja_di_KTM,Snorlax,NORMAL,N/A,540,TRUE,FRLG,92,Blaze,N/A,94,186,123,194,306,254,277,Aurora Beam,Extrasensory,Thunderbolt,Flame Wheel,14.8
+221,9/14/2022,Aridore,Snorlax,NORMAL,N/A,540,TRUE,FRLG,92,Suction Cups,N/A,95,321,329,244,114,133,202,Signal Beam,Rock Slide,Body Slam,Earthquake,13.3
+316,7/27/2022,ninjafriend,Snorlax,NORMAL,N/A,540,TRUE,FRLG,92,Suction Cups,Modest,95,288,241,260,94,186,235,Return,Secret Power,Drill Peck,Sky Uppercut,10.5
+142,6/5/2022,TheGons,Snorlax,NORMAL,N/A,540,FALSE,FRLG,92,Soundproof,N/A,92,241,189,159,406,83,212,Ice Beam,Psychic,Eruption,Shock Wave,11.7
+308,6/3/2022,Pip,Snorlax,NORMAL,N/A,540,TRUE,FRLG,92,Volt Absorb,Relaxed,94,444,218,130,238,165,111,Crunch,Thunderbolt,Ice Beam,Drill Peck,10.2
+270,5/29/2022,BingsF,Snorlax,NORMAL,N/A,540,TRUE,FRLG,92,Compound Eyes,Adamant,92,300,417,130,129,226,159,Body Slam,Brick Break,Meteor Mash,Fire Spin,18.3
+300,3/22/2023,SteVanLe,Steelix,STEEL,ROCK,510,TRUE,FRLG,92,Keen Eye,Sassy,94,268,61,248,225,312,176,Amnesia,Thunder Punch,Extrasensory,Heat Wave,15.2
+409,6/3/2022,gear,Steelix,STEEL,ROCK,510,TRUE,FRLG,92,Rough Skin,Careful,94,287,294,149,156,261,149,Megahorn,Dragon Dance,Thunderbolt,Mud Shot,15.6
+239,11/6/2023,UTDZac,Swampert,WATER,GROUND,535,TRUE,FRLG,92,Insomnia,Quiet,93,356,112,239,256,190,192,Water Pulse,Thunder Shock,Ember,Tail Glow,18.5
+118,4/19/2023,ChadEditor,Swampert,WATER,GROUND,535,TRUE,FRLG,92,Magma Armor,Lonely,94,255,348,153,108,211,271,Rock Slide,Mud Shot,Sky Uppercut,Swift,14.9
+251,9/5/2022,Lazydrink,Swampert,WATER,GROUND,535,TRUE,FRLG,92,Color Change,Impish,93,386,262,139,135,186,181,Shadow Ball,Brick Break,Wing Attack,Bone Club,11.2
+187,7/27/2023,Shiru666,Tentacruel,WATER,POISON,515,FALSE,FRLG,92,Serene Grace,N/A,92,230,285,176,87,268,214,Hyper Voice,Aerial Ace,Needle Arm,Ice Beam,13.8
+74,1/28/2024,Nezumi,Typhlosion,FIRE,N/A,534,FALSE,FRLG,92,Immunity,N/A,93,209,125,265,263,233,213,Flamethrower,Leaf Blade,Bubble Beam,Twister,13.8
+350,2/1/2023,OnlyShorts,Umbreon,DARK,N/A,525,TRUE,FRLG,92,Shield Dust,N/A,92,286,286,205,179,149,246,Lick,Twineedle,Earthquake,Dizzy Punch,24.4
+378,1/10/2023,Weird0,Umbreon,DARK,N/A,525,FALSE,FRLG,92,Color Change,Naive,93,366,283,201,82,217,136,Body Slam,Double Kick,Psychic,Sky Attack,14.5
+320,9/19/2022,Vickieladdie,Umbreon,DARK,N/A,525,TRUE,FRLG,92,Cute Charm,Quiet,94,263,57,300,364,89,241,Crunch,Teeter Dance,Ice Beam,Mist Ball,15.6
+335,10/9/2022,CermeTV,Vaporeon,WATER,N/A,525,TRUE,FRLG,92,Flash Fire,N/A,93,369,117,184,266,210,142,Crabhammer,Bubble Beam,Razor Leaf,Fire Blast,13.3
+61,10/18/2023,Weird0,Wailord,WATER,N/A,500,FALSE,FRLG,92,Levitate,Mild,92,194,397,261,82,90,210,Sludge Bomb,Aerial Ace,Karate Chop,Rock Slide,17.3
+315,7/27/2022,Vickieladdie,Wailord,WATER,N/A,500,FALSE,FRLG,92,Effect Spore,N/A,93,374,275,188,67,163,190,Rock Slide,Double-Edge,Shadow Ball,Tri Attack,15.5
+228,3/4/2023,SteVanLe,Walrein,ICE,WATER,530,TRUE,FRLG,92,Intimidate,Naughty,92,271,121,313,275,131,176,Fire Punch,Thunder Punch,Bubble Beam,Calm Mind,14.3
+45,5/29/2022,EconSean,Aerodactyl,ROCK,FLYING,515,TRUE,FRLG,93,Immunity,N/A,93,296,123,169,257,163,270,Eruption,Thunderbolt,Bubble Beam,Feint Attack,14.5
+96,7/20/2023,DrMaple,Arcanine,FIRE,N/A,555,FALSE,FRLG,93,Damp,Relaxed,93,201,275,231,251,256,171,Thunderbolt,Thief,Extrasensory,Overheat,18.8
+31,3/22/2024,rubes000,Blaziken,FIRE,FIGHTING,530,TRUE,FRLG,93,Color Change,Bold,93,278,61,250,312,144,281,Ice Punch,Leaf Blade,Water Pulse,Air Cutter,15.1
+231,10/2/2023,ChadEditor,Blaziken,FIRE,FIGHTING,530,TRUE,FRLG,93,Sand Veil,N/A,93,341,247,204,161,162,201,Brick Break,Drill Peck,Shadow Ball,Swords Dance,16
+351,9/14/2023,dynamungo,Blissey,NORMAL,N/A,540,FALSE,FRLG,93,Damp,Jolly,93,367,261,222,63,192,253,Body Slam,Mud Shot,Flame Wheel,Acid,17
+226,8/24/2023,XFallenProphet,Blissey,NORMAL,N/A,540,TRUE,FRLG,93,Plus,Naughty,94,403,352,155,73,177,186,Bulk Up,Earthquake,Tri Attack,Aerial Ace,13.9
+177,7/31/2022,Shiru666,Blissey,NORMAL,N/A,540,FALSE,FRLG,93,Chlorophyll,Timid,95,465,90,166,276,164,192,Psychic,Shock Wave,Water Spout,Icy Wind,13.7
+441,3/11/2023,sheltiesci,Clefable,NORMAL,N/A,473,FALSE,FRLG,93,Rough Skin,Sassy,93,319,92,246,198,242,120,Ice Beam,Psybeam,Hydro Pump,Dragon Claw,15.7
+275,9/17/2023,ExarionU,Crobat,POISON,FLYING,535,TRUE,FRLG,93,White Smoke,Brave,94,353,261,267,85,232,182,Sludge,Headbutt,Overheat,Low Kick,21.2
+90,7/21/2023,DrMaple,Crobat,POISON,FLYING,535,FALSE,FRLG,93,Color Change,Rash,93,381,284,168,88,164,220,Aerial Ace,Rock Slide,Thunderbolt,Cross Chop,14.6
+375,3/7/2023,A_Dubs_22,Dewgong,WATER,ICE,475,TRUE,FRLG,93,White Smoke,Rash,95,343,82,230,334,129,180,Ice Beam,Flamethrower,Blast Burn,Shadow Ball,22.6
+491,7/28/2023,Nansey,Dunsparce,NORMAL,N/A,415,TRUE,FRLG,93,Compound Eyes,Mild,95,271,135,91,352,88,238,Heat Wave,Super Fang,Icy Wind,Hydro Pump,20.9
+497,2/17/2023,Shiru666,Espeon,PSYCHIC,N/A,525,FALSE,FRLG,93,Chlorophyll,Jolly,93,474,65,94,197,159,315,Extrasensory,Ice Beam,Aurora Beam,Fire Blast,14.8
+297,9/11/2023,Wiler,Feraligatr,WATER,N/A,530,TRUE,FRLG,93,Pickup,Mild,94,299,51,99,500,133,288,Extrasensory,Feint Attack,Dragon Claw,Heat Wave,19
+436,5/28/2023,Weird0,Feraligatr,WATER,N/A,530,TRUE,FRLG,93,Marvel Scale,Lonely,94,359,277,112,272,130,180,Ice Punch,Sky Uppercut,Magical Leaf,Knock Off,14.2
+247,10/19/2023,DrMaple,Flygon,GROUND,DRAGON,520,FALSE,FRLG,93,Shed Skin,N/A,93,336,177,219,217,143,234,Earthquake,Icy Wind,Shock Wave,Gust,20.1
+495,10/7/2023,Poisson,Flygon,GROUND,DRAGON,520,TRUE,FRLG,93,Speed Boost,Gentle,94,357,244,54,266,130,231,Dragon Claw,Blaze Kick,Bonemerang,Thunderbolt,11
+476,2/7/2023,Owl,Golduck,WATER,N/A,500,TRUE,FRLG,93,Soundproof,N/A,94,408,69,120,185,215,289,Leaf Blade,Substitute,Water Pulse,Tail Glow,17.9
+83,3/3/2023,adef,Gyarados,WATER,FLYING,540,TRUE,FRLG,93,Shield Dust,Mild,93,357,274,144,172,187,214,Drill Peck,Sludge,Ice Beam,Psychic,17.9
+419,11/2/2023,eiphzor,Hypno,PSYCHIC,N/A,483,FALSE,FRLG,93,Natural Cure,Timid,94,260,137,110,336,82,320,Heat Wave,Thunderbolt,Tail Glow,Bubble Beam,14.4
+402,10/25/2023,AMSTHEGREAT,Kingdra,WATER,DRAGON,540,TRUE,FRLG,93,Hyper Cutter,Modest,94,386,82,105,283,225,302,Flamethrower,Needle Arm,Water Gun,Confusion,18.4
+13,6/22/2023,Shiru666,Kingdra,WATER,DRAGON,540,TRUE,FRLG,93,Magma Armor,Adamant,94,210,138,220,286,164,303,Eruption,Thunder Punch,Ice Punch,Psychic,14.8
+377,5/30/2022,TheAntiStud,Kingdra,WATER,DRAGON,540,TRUE,FRLG,93,Plus,N/A,95,434,120,146,349,91,184,Blizzard,Extrasensory,Aeroblast,Bubble Beam,10.7
+356,5/29/2022,Reinier,Kingdra,WATER,DRAGON,540,TRUE,FRLG,93,Drought,N/A,93,292,176,284,272,104,200,Dragon Claw,Razor Leaf,Sacred Fire,Tail Glow,15.1
+22,12/11/2023,Lightorias,Lapras,WATER,ICE,535,FALSE,FRLG,93,Flash Fire,Naughty,94,234,114,217,339,153,233,Aurora Beam,Shock Wave,Flamethrower,Razor Leaf,10.1
+485,9/25/2023,M3tallion,Lapras,WATER,ICE,535,FALSE,FRLG,93,Rock Head,Quiet,93,383,313,139,67,73,299,Double-Edge,Earthquake,Submission,Wing Attack,12.6
+328,6/13/2023,Ulti,Lapras,WATER,ICE,535,TRUE,FRLG,93,Shield Dust,Timid,94,307,259,244,117,163,239,Sky Uppercut,Aerial Ace,Aeroblast,Megahorn,15.5
+462,8/23/2022,BitErrorMusic,Lapras,WATER,ICE,535,TRUE,FRLG,93,Blaze,Quiet,93,458,137,144,253,103,218,Aurora Beam,Earthquake,Dragon Claw,Aeroblast,14.4
+291,1/24/2024,gété,Machamp,FIGHTING,N/A,505,TRUE,FRLG,93,Keen Eye,Adamant,95,269,368,153,114,140,307,Earthquake,Tri Attack,Bulk Up,Mach Punch,21
+332,1/30/2023,Lightorias,Milotic,WATER,N/A,540,TRUE,FRLG,93,Compound Eyes,Sassy,93,367,277,133,159,180,179,Meteor Mash,Bone Rush,Low Kick,Eruption,10.9
+259,8/3/2022,Lightorias,Milotic,WATER,N/A,540,FALSE,FRLG,93,Hyper Cutter,Calm,93,377,68,183,256,190,280,Bubble Beam,Thunder Punch,Mist Ball,Psycho Boost,17.3
+151,6/9/2022,qwarzach,Milotic,WATER,N/A,540,FALSE,FRLG,93,Shield Dust,Naive,93,313,350,163,66,158,290,Brick Break,Slash,Swift,Ancient Power,15.5
+460,9/22/2022,Vickieladdie,Mr. Mime,PSYCHIC,N/A,460,FALSE,FRLG,93,Hustle,N/A,94,340,152,182,203,172,202,Confusion,Shadow Ball,Thunderbolt,Water Pulse,24.5
+95,5/29/2022,IceTwigg,Muk,POISON,N/A,500,TRUE,FRLG,93,Water Absorb,N/A,93,230,362,107,71,225,252,Drill Peck,Rock Slide,Sludge Bomb,Earthquake,14
+263,3/2/2023,ShraveShrave,Pidgeot,NORMAL,FLYING,469,TRUE,FRLG,93,Swift Swim,Naive,93,289,343,251,81,128,161,Drill Peck,Vise Grip,Mach Punch,Thunderbolt,24
+304,10/15/2022,Alesha,Pinsir,BUG,N/A,500,TRUE,FRLG,93,Volt Absorb,N/A,95,185,241,277,183,223,208,Bonemerang,Shadow Ball,Aurora Beam,Karate Chop,20.5
+94,10/27/2023,DrMaple,Poliwrath,WATER,FIGHTING,500,FALSE,FRLG,93,Hustle,Timid,94,397,51,113,251,213,264,Water Spout,Confusion,Magical Leaf,Tail Glow,17.1
+48,10/17/2022,DROODTHUND3R,Porygon2,NORMAL,N/A,515,TRUE,FRLG,93,Drought,N/A,94,187,108,254,396,159,195,Flamethrower,Leaf Blade,Thunder Punch,Dragon Breath,15.6
+354,11/10/2023,HollyTeaLeaf,Sceptile,GRASS,N/A,530,FALSE,FRLG,93,Shed Skin,Naughty,94,406,157,161,217,196,200,Drill Peck,Razor Leaf,Bite,Fire Blast,18
+176,2/27/2024,Ice_ArchAngel,Snorlax,NORMAL,N/A,540,FALSE,FRLG,93,Damp,Impish,94,402,71,231,213,175,232,Water Spout,Crunch,Leaf Blade,Dragon Claw,13
+271,2/1/2023,Dangers,Snorlax,NORMAL,N/A,540,FALSE,FRLG,93,Volt Absorb,Lonely,94,300,174,164,256,147,285,Blaze Kick,Psychic,Spark,Return,13.2
+93,3/8/2024,Shiru666,Starmie,WATER,PSYCHIC,520,FALSE,FRLG,93,Lightning Rod,N/A,93,241,122,164,304,238,212,Water Pulse,Crunch,Luster Purge,Psych Up,13.6
+78,11/4/2023,Ulti,Swampert,WATER,GROUND,535,TRUE,FRLG,93,Marvel Scale,Timid,94,323,67,83,348,259,261,Thunderbolt,Extrasensory,Water Spout,Gust,14
+430,10/19/2023,Juanlyways,Swampert,WATER,GROUND,535,FALSE,FRLG,93,Natural Cure,Brave,93,250,275,221,149,242,159,Earthquake,Aeroblast,Swords Dance,Bubble Beam,10.8
+194,12/15/2023,StreamingFalcon,Typhlosion,FIRE,N/A,534,TRUE,FRLG,93,Drought,Naughty,95,374,169,147,255,131,284,Ancient Power,Flamethrower,Ice Ball,Thunder Punch,17.1
+330,2/8/2023,Bamkel,Umbreon,DARK,N/A,525,TRUE,FRLG,93,Water Absorb,Impish,94,393,326,144,130,193,148,Drill Peck,Brick Break,Karate Chop,Sacred Fire,18.1
+49,8/8/2022,Shiru666,Vaporeon,WATER,N/A,525,FALSE,FRLG,93,Shell Armor,N/A,93,260,143,177,283,172,237,Thunderbolt,Ice Punch,Outrage,Karate Chop,11
+169,10/13/2023,Lightorias,Venusaur,GRASS,POISON,525,FALSE,FRLG,93,Lightning Rod,Sassy,95,316,106,164,369,180,207,Dragon Claw,Fire Punch,Octazooka,Twineedle,18
+394,1/10/2024,Lucellia,Walrein,ICE,WATER,530,TRUE,FRLG,93,Shed Skin,Lonely,95,295,310,240,128,104,250,Return,Drill Peck,Low Kick,Dragon Dance,13.5
+162,10/23/2023,Hedger,Blissey,NORMAL,N/A,540,TRUE,FRLG,94,Minus,Brave,95,257,352,175,86,221,274,Return,Karate Chop,Dragon Dance,Aeroblast,16.1
+145,3/22/2023,SteVanLe,Cloyster,WATER,ICE,525,TRUE,FRLG,94,Rock Head,Relaxed,96,226,85,101,356,271,283,Wing Attack,Thunder Punch,Outrage,Ice Beam,15.5
+225,4/19/2023,ChadEditor,Gardevoir,PSYCHIC,N/A,518,TRUE,FRLG,94,Liquid Ooze,Careful,95,222,117,416,265,135,153,Thunder Punch,Aurora Beam,Thief,Calm Mind,16.6
+234,12/15/2023,dynamungo,Golduck,WATER,N/A,500,TRUE,FRLG,94,Poison Point,N/A,95,357,75,138,330,195,180,Water Spout,Crunch,Blaze Kick,Blast Burn,14.3
+325,5/30/2022,Raikaru13,Seviper,POISON,N/A,458,TRUE,FRLG,94,Shed Skin,Brave,94,347,125,97,248,188,176,Flamethrower,Leaf Blade,Water Spout,Ice Beam,15.1
+98,8/22/2022,QwarZach,Skarmory,STEEL,FLYING,465,TRUE,FRLG,94,Water Absorb,Naive,94,295,299,208,80,131,180,Air Cutter,Brick Break,Swift,Rock Throw,13.3
+229,5/29/2023,Weird0,Snorlax,NORMAL,N/A,540,TRUE,FRLG,94,Sand Veil,Careful,95,270,443,203,113,159,211,Return,Karate Chop,Meteor Mash,Wing Attack,20.7
+38,7/6/2022,Krisjanis,Stantler,NORMAL,N/A,465,TRUE,FRLG,94,Speed Boost,N/A,95,205,262,277,248,146,83,Extrasensory,Icy Wind,Bonemerang,Drill Peck,16.1
+453,10/28/2023,FrogOnion_,Starmie,WATER,PSYCHIC,520,FALSE,FRLG,94,Overgrow,N/A,95,258,222,311,174,168,210,Psychic,Shadow Ball,Bonemerang,Fire Punch,18.6
+431,6/6/2022,m4h4h0,Swampert,WATER,GROUND,535,TRUE,FRLG,94,Rough Skin,N/A,96,412,86,184,218,267,239,Bubble Beam,Leaf Blade,Icy Wind,Thunder,21.3
+28,9/10/2023,ExarionU,Umbreon,DARK,N/A,525,TRUE,FRLG,94,Own Tempo,Careful,96,238,100,231,324,240,183,Sacred Fire,Feint Attack,Water Pulse,Earthquake,13.5
+362,11/4/2023,Thomaj15,Vaporeon,WATER,N/A,525,FALSE,FRLG,94,Drizzle,Adamant,95,291,112,225,387,203,106,Ice Beam,Beat Up,Thunder Shock,Aurora Beam,19.2
+115,8/18/2023,gété,Blissey,NORMAL,N/A,540,TRUE,FRLG,95,Inner Focus,N/A,97,310,88,222,286,276,227,Flamethrower,Thunderbolt,Water Pulse,Ice Beam,18.4
+507,1/10/2023,Weird0,Blissey,NORMAL,N/A,540,FALSE,FRLG,95,Rock Head,Naive,95,367,314,57,286,88,256,Crush Claw,Bonemerang,Icy Wind,Iron Tail,14.9
+32,10/30/2022,Frenk95ita,Electabuzz,ELECTRIC,N/A,490,TRUE,FRLG,95,Rock Head,N/A,96,257,86,177,355,168,230,Confusion,Aurora Beam,Flamethrower,Volt Tackle,14.8
+107,4/3/2023,Owl,Feraligatr,WATER,N/A,530,TRUE,FRLG,95,Swarm,Bold,96,285,95,335,316,156,202,Water Pulse,Confusion,Magical Leaf,Powder Snow,17.6
+450,3/3/2023,Drrek,Gengar,GHOST,POISON,500,TRUE,FRLG,95,Swift Swim,N/A,97,338,285,120,284,142,180,Needle Arm,Fire Blast,Nature Power,Shadow Ball,21.2
+223,4/18/2023,RiderSSPU,Kingdra,WATER,DRAGON,540,FALSE,FRLG,95,Compound Eyes,Naughty,99,350,337,183,118,258,190,Megahorn,Shadow Ball,Smelling Salt,Jump Kick,18
+183,3/22/2023,Dangers,Milotic,WATER,N/A,540,TRUE,FRLG,95,Swift Swim,N/A,95,262,187,278,271,120,252,Water Pulse,Fire Punch,Bite,Calm Mind,17
+127,7/15/2022,Krisjanis,Muk,POISON,N/A,500,TRUE,FRLG,95,Drizzle,Adamant,96,294,347,172,101,160,197,Sludge,Thunder,Bonemerang,Sacred Fire,8.8
+338,5/30/2022,GayLuigi,Raikou,ELECTRIC,N/A,580,TRUE,FRLG,95,Torrent,Naughty,96,370,266,240,95,235,287,Secret Power,Bonemerang,Aeroblast,Swift,21.2
+181,10/26/2022,Alesha,Snorlax,NORMAL,N/A,540,TRUE,FRLG,96,Speed Boost,Impish,97,391,315,320,98,109,207,Earthquake,Aeroblast,Triple Kick,Pay Day,20.2
+39,3/31/2023,Snackya,Blastoise,WATER,N/A,530,TRUE,FRLG,-1,Volt Absorb,N/A,92,244,87,253,277,189,259,Water Spout,Flamethrower,Tri Attack,Thunder Shock,16.9
+218,11/21/2023,TwistOfRage,Blaziken,FIRE,FIGHTING,530,TRUE,FRLG,-1,Drizzle,Brave,93,293,313,293,71,257,162,Return,Mach Punch,Odor Sleuth,Dragon Dance,24.9
+214,10/20/2023,Ice_ArchAngel,Charizard,FIRE,FLYING,534,TRUE,FRLG,-1,Vital Spirit,Careful,91,283,261,234,169,183,157,Bulk Up,Flamethrower,Double Kick,Aerial Ace,15
+101,11/27/2023,PsydeTrack,Kingdra,WATER,DRAGON,540,TRUE,FRLG,-1,Shield Dust,N/A,95,236,169,222,285,207,255,Ice Beam,Dragon Claw,Flamethrower,Steel Wing,17.5
+452,8/22/2023,TwistOfRage,Slowbro,WATER,PSYCHIC,490,FALSE,FRLG,-1,Swarm,Hasty,89,322,215,155,176,125,217,Heat Wave,Thunder Punch,Water Pulse,Twineedle,18.8
+60,10/20/2023,Ice_ArchAngel,Swampert,WATER,GROUND,535,TRUE,FRLG,-1,Speed Boost,Adamant,92,362,226,216,167,189,160,Magnitude,Metal Claw,Aerial Ace,Swords Dance,16.9
